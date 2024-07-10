@@ -1,0 +1,768 @@
+﻿Plot,Quadrat,TreeNum,spp,PIGTAIL_2021,TAG_found_2021,LIVE_Dead_2021,COMMENTS_2021,Height1997_cm,LCL_length1997_cm,LdrGrowth1997_cm,CrownWidthNS1997_cm,CrownWidthEW1997_cm,BasalCaL1997mm,Vigor1995,Vigour1997,1995Comments,comment_1997
+3,1,186,Sw,Y,Y,L,,53.5,53.5,5.5,21,20,8,good,,"open, by large dung pile",
+3,1,187,Sw,N/F,,,,,,,,,,moderate,missing,open,missing
+3,1,188,Sw,N/F,,,,47,27,6,21,18,5.5,good,,70cm from 2m spruce,
+3,1,189,Sw,N/F,,,,56,56,5,25,25,7,good,,shaded by small balsam,
+3,1,190,Sw,Y,Y,L,,46,46.5,4,23,27,6,mod-good,,"overlapped by mature spruce, balsam",
+3,1,191,Sw,Y,Y,L,,46.5,45.5,6,20,21,6,mod-good,,,
+3,1,192,Sw,N/F,,,,45,45,3,22,16,6,good,,"some necrotic foliage at base, by rotten log, under mature balsam",
+3,1,193,Sw,Y,Y,D,,49,49,4,25,17,9,good,,open,new leader
+3,1,194,Sw,Y,Y,L,,38,38,5.5,15,16,8,good,,overlapped by 2.5m balsam,"needle cast, new leader"
+3,1,195,Sw,N/F,,,,36,36,1.5,20,20,7,mod-good,,relatively open,
+3,1,196,Sw,Y,Y,L,,47,47,,23,20,7,good,,directly under mature balsam,
+3,2,197,Sw,N/F,,,,51,51,3,22,19,7.5,mod-good,,"open, mold on top of plug slightly chlorotic",
+3,2,198,Sw,Y,Y,D,,45,36,3,20,17,7,good,,"15 deg lean, plug well exposed",sweep
+3,2,199,Sw,Y,Y,D,,46,29,,25,25,7.5,mod-good,,"some necrotic foliage, 20deg lean, plug exposed, open",
+3,2,200,Sw,Y,Y,D,,42,42,2,19,18,10,good,,open,
+3,2,201,Sw,Y,Y,L,,38,38,1.5,15,25,7,good,,open,
+3,2,202,Sw,N/F,,,,50,44,2.5,22,19,7,mod-good,,"open, 10deg lean",
+3,2,203,Sw,Y,Y,L,,41,34,,23,21,7,moderate,,sparse foliage,
+3,2,204,Sw,N/F,,,,12,12,7,5,5,7,moderate,,"crushed bylog, 45deg lean, exposed cutplug","needle cast, new leader"
+3,2,205,Sw,N/F,,,,46,27,,20,21,7.5,mod-good,,60 cm from half-dead 3m balsam,
+3,2,206,Sw,Y,Y,L,,57.5,35,3,21,25,8,good,,"planted deep, necrotic at bottom, mature balsam above",
+3,2,207,Sw,Y,Y,L,,55,55,1,15,17,8,good,,open,
+3,2,208,Sw,Y,Y,L,,49.5,49.5,2,16,19,9,good,,under balsam,
+3,2,209,Sw,N/F,,,,55,44,4.5,19,18,7,good,,open,
+3,2,210,Sw,N/F,,,,59,41,1.5,26,31,8,very good,,"1.5m from mature spruce, one dead lateral",
+3,2,211,Sw,Y,Y,D,,,,,,,,mod-good,,under balsam canopy,Dead
+3,2,212,Sw,Y,Y,D,,57,57,3,29,24,8.5,good,,crooked leader,
+3,2,213,Sw,N/F,,,,49,49,,20,20,7,moderate,,"under thick canopy, exposed plug",
+3,2,214,Sw,Y,Y,D,,31,31,5,15,13,8,moderate,,"dead leader, 30deg lean",New Leader
+3,3,215,Sw,N/F,,,,70,30,7,4,4,6,moderate,,necrotic foliage 1/2 way up stem,"Dead Leader, New Leader"
+3,3,216,Sw,Y,Y,D,,,,,,,,good,,"crushed by log, light canopy",Dead
+3,3,217,Sw,Y,Y,D,,,,,,,,poor,,live foliage up 1/3 stem only,Dead
+3,3,218,Sw,N/F,,,,,,,,,,very poor,,"moribund-very little live foliage, 60deg lean, exposed plug",Dead
+3,3,219,Sw,N/F,,,,58,58,3.5,20,20,7,good,,"dead terminal bud, measured lateral taking over as leader",
+3,3,220,Sw,N/F,,,,54,39,2,17,17,8,good,,open directly above,"Chlorotic, wet"
+3,3,221,Sw,N/F,,,,,,,,,,poor-mod,,"stepped on?, fairly thick canopy",Dead
+3,3,222,Sw,N/F,,,,47,47,3,20,20,6,good,,"exposed plug, open",
+3,3,223,Sw,Y,Y,D,,,,,,,,mod-good,,"top 1/2 of leader dead, no laterals, buds only, close canopy",Dead
+3,3,224,Sw,N/F,,,,20,9,3,6,7,5,poor-mod,,stem bent at 45deg- crushed by fallen tree branches,"slash press, new leader"
+3,3,225,Sw,Y,Y,D,,56,28,1.5,26,22,7.5,mod-good,,open,
+3,3,226,Sw,N/F,,,,,,,,,,poor,,dead leader and top laterals,Dead
+3,4,227,Sw,N/F,,,,52,33,3,27,25,8,mod-good,,dense canopy,
+3,4,228,Sw,N/F,,,,,,,,,,mod-good,,overtopped by two small balsam (3-4m),Moribund
+3,4,229,Sw,Y,Y,D,,,,,,,,poor,,"dead terminal bud/ top half of leader dead, dense canopy",Dead
+3,4,230,Sw,N/F,,,,37,37,3,9,9,6.5,moderate,,"dead terminal bud, lateral is new leader",new leader
+3,4,231,Sw,N/F,,,,,,,,,,poor-mod,,,Mortibund
+3,4,232,Sw,N/F,,,,,,,,,,good,,"dead term. bud, lateral is leader, open, in midst of light , slash, lateral is leader, open",dead
+3,4,233,Sw,N/F,,,,,,,,,,moderate,,"dead term. bud, lateral is leader, open",Dead
+3,4,234,Sw,N/F,,,,,,,,,,poor,,"dead term. bud, lateral is leader, by brush pile, foliage, sparse- some dead, open",Dead
+3,4,235,Sw,N/F,,,,50,30,4,27,24,7,moderate,,at edge of open area,Partial slash press
+4,1,236,Sw,Y,Y,L,,32,16,5,15,10,8,moderate,,in heavy slash,
+4,1,237,Sw,Y,Y,L,,48,48,6.5,26,20,7.5,mod-good,,"open- 2m from mature balsam, spruce",
+4,1,238,Sw,N/F,,,,39,25,8,20,20,9.5,good,,"in scooped out screef, open",
+4,1,239,Sw,Y,Y,D,,42,30,5,20,22,8,good,,,
+4,1,240,Sw,Y,Y,L,Outside PSP,47,33,4,25,23,7,good,,large mature balsam over top,
+4,1,241,Sw,Y,Y,D,,20,20,9,5,5,8,poor-mod,,bare of foliage in midriff,"needle cast, new leader"
+4,1,242,Sw,N/F,,,,44,15,2,12,17,7,mod-good,,open,
+4,1,243,Sw,Y,Y,L,,54,42,5.5,25,20,6.5,good,,15cm from log,
+4,1,244,Sw,N/F,,,,,,,,,,mod-good,,open,veg press
+4,1,245,Sw,Y,Y,D,,46,46,2,15,15,7,good,,in midst of small balsam,
+4,1,246,Sw,Y,Y,L,,47,47,6.5,25,25,8,very good,,under mature balsam- within 1m,
+4,1,247,Sw,Y,Y,L,PSP Borderline,46,46,4.5,20,20,6,good,,under 2 large balsam- curved stem,
+4,1,248,Sw,N/F,,,,,,,,,,good,,open,"log press, hortizontal, new measure"
+4,2,249,Sw,Y,Y,L,Approx 60cm Inside,48.5,48.5,3.5,20,20,9,mod-good,,"open, bent slightly near top",
+4,2,250,Sw,Y,Y,L,PSP #506,55.5,55.5,4.5,20,25,7,mod-good,,"open, very slightly chlorotic, vertical traffic?",
+4,2,251,Sw,Y,Y,L,Outside PSP,57,44,5.5,23,20,7.5,good,,"open, leaning at 30deg",
+4,2,252,Sw,Y,Y,L,,59,48,10,31,22,10,mod-good,,open,sweep
+4,2,253,Sw,Y,Y,L,Outside PSP,63,63,13,35,30,10,moderate,,"sparse foliage, balsam over top, 60cm away",
+4,2,254,Sw,N/F,,,,52,32,6,26,26,7,moderate,,"under balsam, looks like some vehicle traffic",
+4,2,255,Sw,N/F,,,,41,41,7,25,14,8,mod-good,,"65deg leaner, stepped on?",new leader
+4,2,256,Sw,Y,Y,L,PSP Borderline,56,45,4,18,18,8,good,,60cm away from 7m balsam,
+4,2,257,Sw,Y,Y,D,Broken,22,22,5,13,10,6,moderate,,"leader bent right over, under fallen tree","needle cast, bend top, new leader"
+4,2,258,Sw,Y,Y,L,,54,54,11.5,30,24,9.5,good,,"mainly open, on mound",
+4,2,259,Sw,Y,Y,L,,31.5,21,3,18,13,5.5,moderate,,"slightly bent, under fallen tree, 1m from 4m fallen balsam",
+4,2,260,Sw,N/F,,,,36,35,8,19,23,7,good,,"in rotten wood pile, open",
+4,3,261,Sw,N/F,,,,49,49,4,15,10,6,mod-good,,"under fallen tree, open",chlorotic
+4,3,262,Sw,Y,Y,L,,50,5,10.5,20,22,8,good,,"slightly curved stem, under fallen tree",
+4,3,263,Sw,Y,Y,L,,57,57,10,33,28,9,good,,open,
+4,3,264,Sw,N/F,,,,38,38,4.5,25,23,7,good,,"under mature spruce, balsam",
+4,3,265,Sw,Y,Y,L,In PSP,49,49,2,27,27,8,mod-good,,under mature balsam,
+4,3,266,Sw,Y,Y,L,,60,38,4,24,26,9,mod-good,,"near base of rotten stump, under 5-8m balsam X2",
+4,3,267,Sw,N/F,,,,41,25,3.5,17,16,8.5,good,,"30cm from fallen tree, in depression, mainly open",
+4,3,268,Sw,Y,Y,L,Outside PSP,46.5,46.5,3.5,18,16,9,mod-good,,"bent at base, standing straight, slightly chlorotic near base, open",
+4,3,269,Sw,N/F,,,,,,,,,,moderate,,"bent over, under fallen tree, open","no tree, slash press"
+4,3,270,Sw,Y,Y,L,In PSP,43,43,7,22,20,7,good,,"in heavy slash, fairly open skies",
+4,3,271,Sw,Y,Y,L,Outside PSP,38,38,4,15,20,8,mod-good,,under light balsam canopy,
+4,4,272,Sw,Y,Y,L,,42,42,3,17,17,6,good,,light balsam canopy,
+4,4,273,Sw,Y,Y,D,,,,,,,,moderate,,"broken leader, missing terminal bud, under fallen, tree, in open",
+4,4,274,Sw,Y,Y,D,Wet Hole,36,36,5,15,15,6,mod-good,,open,no tree
+4,4,275,Sw,Y,Y,L,PSP # 501,40,40,6,26,18,7,mod-good,,light balsam canopy,
+4,4,276,Sw,Y,Y,L,,58,58,3,25,25,8,good,,"high balsam canopy, mostly open",
+4,4,277,Sw,Y,N,L,"No Orange Tag, figured out by elimination, flagged and marked # 277",65,65,2.5,19,25,9,good,,1.5m from mature balsam,
+4,4,278,Sw,Y,Y,D,,34,34,4,15,15,7,mod-good,,"slightly bent stem, 1m from mature balsam",
+4,4,279,Sw,Y,Y,D,,,,,,,,moderate,,"dead terminal bud, leader, mainly open  ",
+4,4,280,Sw,Y,Y,D,Heavy Huckleberry,,,,,,,good,,"slightly bent stem, open",
+4,4,281,Sw,Y,Y,L,,53,53,6.5,18,22,7,mod-good,,"on mound, open",dead
+4,4,282,Sw,N/F,,,,,,,,,,poor,,"under fallen tree, open, very sparse foliage esp. on leader",veg press
+4,4,283,Sw,Y,Y,L,PSP # 502,57,57,11.5,32,29,9.5,good,,"leaning at 15deg, in open ",
+4,4,284,Sw,Y,Y,L,,45,29,2,18,22,7,mod-good,,"slightly leaning, under brush pile",Dead
+4,4,285,Sw,Y,Y,L,,42,42,2.5,15,19,7.5,good,,under high balsam canopy,
+5,1,286,Sw,N/F,,,,53,40,5,30,30,9,very good,,open,
+5,1,287,Sw,Y,Y,L,Within PSP,55,55,20,30,30,10,good,,"crooked leader, open except for branches of fallen tree",partial slash press
+5,1,288,Sw,Y,Y,L,,82.5,82.5,19,35,45,10.5,very good,,"open, in crook of birch stump",
+5,1,289,Sw,Y,Y,L,Outside PSP,42,42,11.5,30,28,11,good,,"open, on slope",
+5,1,290,Sw,N/F,,,,49,49,15,25,29,9,good,,"open, except for dead branches on fallen tree",
+5,1,291,Sw,N/F,,,,63,63,10.5,35,33,10.5,good,,under very tall mature spruce and smaller mature balsam,
+5,1,292,Sw,Y,Y,L,Outside PSP,45,45,10,20,20,9.5,good,,"open skies, surrounded by heavy slash",
+5,1,293,Sw,Y,Y,L,PSP # 12,63,63,15,30,25,11,good,,"open, surrounded by heavy slash",
+5,1,294,Sw,Y,Y,D,,63,63,14.5,40,35,9.5,good,,open,
+5,1,295,Sw,Y,Y,L,,54,54,7,20,20,7.5,good,,"in depression, next to several 50cm-1.5m spruce",
+5,1,296,Sw,Y,Y,L,Outside PSP,56,56,15,25,20,9.5,good,,"open, next to slash, in 10cm hole",New leader
+5,1,297,Sw,Y,Y,L,Borderline out of PSP,49,49,20,20,33,11.5,mod-good,,"slightly chlorotic, open, some machine traffic?",
+5,2,298,Sw,Y,Y,D,Snow - pressed/out of PSP,54,54,10.5,30,32,9.5,good,,open,forked leader
+5,2,299,Sw,Y,Y,L,PSP # 807,57,57,19.5,25,28,9.5,good,,"open, slightly bent stem",
+5,2,300,Sw,Y,Y,L,,53,53,7.5,25,30,8,good,,1.5m from 8m mature spruce,
+5,2,301,Sw,Y,Y,L,PSP# 809,62,62,13.5,40,37,14.5,good,,open,
+5,2,302,Sw,Y,Y,L,Outside PSP,48,48,4.5,22,27,9,good,,"open, very slightly chlorotic",
+5,2,303,Sw,N/F,,,,71.5,53,15,32,35,12.5,good,,"very slightly chlorotic, 1m from bushy 1.5 m balsam",
+5,2,304,Sw,N/F,,,,45,45,7,25,30,9.5,good,,"open, in midst of light slash",Stem bent/ new leader
+5,2,305,Sw,N/F,,,,55,43,13.5,30,20,9,good,,"open, light slash, in depression",
+5,2,306,Sw,Y,Y,D,,49,49,12,20,20,10.5,very good,,encircled by 3 mature trees at 2.5 m away,New leader
+5,2,307,Sw,Y,Y,L,Partially swept ,70,70,14.5,30,30,10.5,good,,"light slash, open, slight depression",
+5,2,308,Sw,Y,Y,L,Borderline PSP,75,75,21.5,35,35,12.5,very good,,"1m from large mature birch, light slash,  in slight depression",
+5,2,309,Sw,Y,Y,L,Outside PSP,60.5,60.5,17.5,37,30,10,good,,"slightly chlorotic, open",
+5,2,310,Sw,Y,Y,L,Outside PSP,45,30,7,20,20,10.5,good,,open,Broken stem
+5,3,311,Sw,Y,Y,D,,56.5,56.5,6,20,20,8,good,,"at base of ancient rotten log, open",
+5,3,312,Sw,Y,Y,L,Within PSP,54,54,5,25,30,10,good,,"open, in 15cm deep hole",
+5,3,313,Sw,Y,Y,L,Within PSP,62,62,16,35,30,10,good,,"open, 70cm from bushy 1.5m balsam, stem quite bent near top",
+5,3,314,Sw,Y,Y,L,Snapped,53,53,13.5,30,25,9.5,good,,"open, in 10cm deep hole",
+5,3,315,Sw,N/F,,,,51,51,55,25,32,7,good,,1m from 6m mature balsam,
+5,3,316,Sw,Y,Y,D,,,,,,,,good,,"open, but surrounded by small bushy conifers",Mortibund
+5,3,317,Sw,Y,Y,D,,30,30,3.5,10,10,7.5,mod-good,,"open, very bent, crushed stem, by rotten log",Veg Press
+5,3,318,Sw,Y,Y,L,Outside PSP,57,57,10,30,25,9,very good,,"in depression, 1.5m from mature balsam",
+5,3,319,Sw,N/F,,,,40,40,,20,15,6.5,good,,70cm from mature balsam,Chlorotic
+5,3,320,Sw,N/F,,,,55,55,3.5,25,30,10.5,very good,,"open, in crook of balsam stump",
+5,3,321,Sw,Y,Y,L,,45,35,7,20,25,6.5,good,,"open, near very large rotten log",
+5,3,322,Sw,Y,Y,L,,,,,,,,good,,open,
+5,4,323,Sw,Y,Y,L,PSP# 828,59,59,13,30,32,9.5,good,,open,
+5,4,324,Sw,Y,Y,D,Tree gone,,,,,,,good,,1.5m from mature balsam to west,Dead
+5,4,325,Sw,Y,Y,L,,50,35,6,25,28,7.5,good,,"open, slightly chlorotic, within 2m of 2X4m balsam",
+5,4,326,Sw,Y,Y,D,,42,27,1.5,15,12,6,good,,"open, rotten logs on 2 sides",
+5,4,327,Sw,Y,Y,D,,32.5,21.5,3.5,14,12,6.5,good,,"open above, but closely ringed by balsam of varying ages",
+5,4,328,Sw,Y,Y,D,,60,50,8.5,30,33,11,mod-good,,"under dripline of mature balsam, bent leader, slightly chlorotic",Bent stem
+5,4,329,Sw,Y,Y,L,,44,35,7,19.5,25,7.5,good,,open,
+5,4,330,Sw,N/F,,,,56,56,5.5,26,24.5,8.5,very good,,under 4m tall balsam canopy,
+5,4,331,Sw,Y,Y,L,,34,34,8,20,25,7.5,good,,"open, but amongst old fallen logs",
+5,4,332,Sw,Y,Y,L,,26.5,26.5,7.5,14,12,6,good,,30cm from overshadowing log,New leader
+5,4,333,Sw,Y,Y,L,,55,55,9.5,33,35,11.5,good,,open,bent stem
+5,4,334,Sw,N/F,,,,57.5,57.5,16.5,33.5,32,9.5,good,,open,
+5,4,335,Sw,Y,Y,L,,66,66,13.5,30,32,12.5,very good,,"open, on slope but in slight depression",
+6,1,336,Sw,Y,Y,D,,,,,,,,good,,open,Mortibund
+6,1,337,Sw,N/F,,,,,,,,,,poor-mod,,"under balsam, many missing needles",Dead
+6,1,338,Sw,N/F,,,,,,,,,,good,,in depression surrounded by 2-3m conifers,Tag but no tree
+6,1,339,Sw,N/F,,,,47,25,3,25.5,25,7.5,moderate,,dead terminal bud- overtopped by shrubs,Veg press
+6,1,340,Sw,Y,Y,D,,,,,,,,good,,open,Dead
+6,1,341,Sw,N/F,,,,,,,,,,poor,,under balsam,Dead
+6,1,342,Sw,Y,Y,D,Outside PSP,49,32,6,20,20,6,mod-good,,in close proximity to 2-3m cluster of balsam,
+6,1,343,Sw,Y,Y,D,,,,,,,,good,,open- 50cm from deep gouge,Mortibund
+6,1,344,Sw,Y,Y,D,,40,21,3,20,15,4.5,moderate,,"many missing/broken needles, under canopy",sweep
+6,1,345,Sw,Y,Y,D,,44,44,5.5,15,21,4.5,moderate,,under medium-high canopy,
+6,1,346,Sw,Y,Y,D,,48,48,6,17,15,5,mod-good,,under shrubs,
+6,1,347,Sw,Y,Y,D,,,,,,,,moderate,,"under very high single balsam, some dead needles",Mortibund
+6,1,348,Sw,N/F,,,,37,37,5.5,19,22,6,moderate,,"sparse foliage, under one 5m balsam",New leader
+6,2,349,Sw,Y,Y,D,,,,,,,,good,,within 2m of 4m tall balsam ,DEad
+6,2,350,Sw,Y,Y,L,Edge of PSP,49,37,11.5,20,22,5,good,,"under high canopy, under shrubs",
+6,2,351,Sw,N/F,,,,44.5,44.5,3.5,25,22,6,good,,1.5m from very tall mature spruce,
+6,2,352,Sw,Y,Y,L,Outside PSP,51,51,4,24,22,6.5,good,,"no shrubs over top, medium-high balsam canopy",
+6,2,353,Sw,Y,Y,L,,54,54,7,25,22,7.5,very good,,"open, in slight depression, rotten loge all around",
+6,2,354,Sw,Y,Y,L,,54,54,6.5,22,27,6,good,,"semi-open, 1.5m from 8m balsam",
+6,2,355,Sw,Y,Y,L,,46,46,2.5,22,25,55,good,,semi-open,
+6,2,356,Sw,Y,Y,D,,30,40,,15,15,5,good,,under fairly heavy canopy,
+6,2,357,Sw,Y,Y,D,,30,30,,18,16,6,good,,open,No leader
+6,2,358,Sw,Y,Y,L,,57,57,4.5,25,20,7,moderate,,many dead buds,
+6,2,359,Sw,Y,Y,D,,36,36,5,15,19,5,good,,open,Bushy top
+6,2,360,Sw,Y,Y,L,,48,30,3.5,20,16,7,mod-good,,under high mature canopy,
+6,2,361,Sw,Y,Y,L,,45,45,5,20,30,6,good,,"dead terminal bud, lateral is leader, semi-open",
+6,2,362,Sw,N/F,,,,36.5,25.5,0.5,20,15,4.5,moderate,,"very few laterals, under relatively heavy canopy, some dead/missing needles",
+6,2,363,Sw,Y,Y,D,,50,50,7,20,23,6,good,,under medium-high balsam canopy,
+6,3,364,Sw,N/F,,,,46.5,46.5,8.5,20,21,7,good,,"open, on mound",
+6,3,365,Sw,N/F,,,,65.5,55,7.5,30,27,8,very good,,under high canopy,
+6,3,366,Sw,N/F,,,,55,55,9.5,18,21,6.5,good,,"under heavy canopy, dead foliage at terminal bud",
+6,3,367,Sw,Y,Y,D,,54,38,4.5,25,30,7.5,good,,semi-open,
+6,3,368,Sw,Y,Y,D,Under blowdown,55,55,8.5,20,15,5.5,mod-good,,"some dead buds, under heavy canopy",
+6,3,369,Sw,Y,Y,L,,55,44,10,22,21,6.5,good,,80cm from 6m balsam ,
+6,3,370,Sw,N/F,,,,48,27,7.5,20,20,6.5,good,,"semi-open, in hole by rotten stump",New leader
+6,3,371,Sw,N/F,,,,,,,,,,mod-good,,"dead terminal bud, lateral is leader, open, some dead foliage",Dead
+6,3,372,Sw,Y,Y,L,,50,50,6.5,25,22,5.5,mod-good,,"semi-open, many dead/missing needles",
+6,3,373,Sw,N/F,,,,45,30,7.5,15,15,4,mod-good,,"semi-open, some dead buds",Leaning
+6,4,374,Sw,Y,Y,D,,57,57,6,25,25,6.5,good,,"in groove of mature trees, in depression",
+6,4,375,Sw,Y,Y,L,Low vigor,50,50,7,25,35,6,good,," in groove of mature trees, dead terminal bud",
+6,4,376,Sw,N/F,,,,43,32,4.5,15,15,5,moderate,,ringed by mature trees within 1.5m,New leader
+6,4,377,Sw,N/F,,,,49,49,7,20,25,6,moderate,,"dead terminal bud + others, open",
+6,4,378,Sw,Y,Y,L,,52,43,4.5,25,25,7,good,,"in crook of rotten stump, semi-open",
+6,4,379,Sw,N/F,,,,45.5,34,5.5,15,15,5,good,,"open but for shrubs, in hollow by rotten log & stump",
+6,4,380,Sw,Y,Y,D,,43.5,43.5,5.5,20,25,6,good,,semi-open with high canopy,
+6,4,381,Sw,Y,Y,D,,44,44,5,20,20,6,good,,"in tight grove of conifers, right by two rotten logs",
+6,4,382,Sw,Y,Y,D,Probably died in less than 5 years,52,42,4.5,25,20,7.5,very good,,under very tall spruce,
+6,4,383,Sw,N/F,,,,45,45,5,20,15,5,good,,"semi-open, on side of mound",New leader
+6,4,384,Sw,N/F,,,,35.5,35.5,11,21,20,5,good,,"sparse foliage on stem, under 5m balsam",
+6,4,385,Sw,Y,Y,D,,46,46,4.5,28,25,7.5,very good,,under very tall spruce + other balsam,Plug exposed
+6,4,386,Sw,Y,Y,D,,36.5,36.5,4,18,20,5.5,good,,under very tall spruce + other balsam,New Leader
+7,1,387,Sw,Y,Y,L,,61,61,10,40,35,8,very good,,under balsam ,
+7,1,388,Sw,Y,Y,D,,37,28,3,10,8,7.5,good,,open,
+7,1,389,Sw,Y,Y,L,,40,40,5,20,20,6,good,,"slightly chlorotic at base, particularly overtopped by small balsam",
+7,1,390,Sw,Y,Y,L,,52,52,5,20,26,10.5,good,,"slightly chlorotic at base, particularly overtopped by large mature balsam",
+7,1,391,Sw,Y,Y,L,Signif snow press ,,,,,,,good,,open,dead
+7,1,392,Sw,Y,Y,D,,52,52,5,27,25,8.5,good,,"slightly chlorotic, two small balsams within 70cm",
+7,1,393,Sw,Y,Y,D,,,,,,,,good,,"open, but 2X3-tm balsam within 1m",slash pass
+7,1,394,Sw,Y,Y,L,,37,37,3.5,14,15,7,good,,"partially overtopped by mature conifers, in light slash",
+7,1,395,Sw,Y,Y,L,Crook,75,75,19,36,33,10,very good,,"open, in slight trough",
+7,1,396,Sw,Y,Y,L,Crook,57,57,11,25,27,10,very good,,"open, shrubs over top, in depression 1m from stump",
+7,1,397,Sw,N/F,,,,21,21,2.5,7.5,8.5,6.5,poor,,"at drip line of large conifers, top 1/2 of leader dead,  mod. chlorotic, some necrotic foliage",needle cast
+7,1,398,Sw,Y,Y,L,,45,45,4,20,25,8,mod-good,,"slightly chlorotic, at dripline of balsam",
+7,1,399,Sw,N/F,,,,49,34.5,4.5,18,15,7,mod-good,,"moderately chlorotic, open",
+7,1,400,Sw,Y,Y,D,,,,,,,,moribund,,"leader is alive, and some other touches of green, open",Tag no tree
+7,1,401,Sw,N/F,,,,31.5,15,,10,10,6,good,,"crooked leader, under 3m balsam, in hole",
+7,2,402,Sw,Y,Y,D,,47.5,30,1.5,25,24,8.5,mod-good,,"some chlorotic foliage, overtopped by several conifers ",
+7,2,403,Sw,Y,Y,D,,62,42,2,20,23,8,mod-good,,"some chlorotic, necrotic foliage, open",
+7,2,404,Sw,N/F,,,,43.5,35,1.5,20,15,6.5,good,,at dripline of one mature spruce,
+7,2,405,Sw,Y,Y,D,,45,45,3.5,25,25,8,good,,open,
+7,2,406,Sw,N/F,,,,56,56,2,15,25,7.5,good,,"open, amongst shrubs",Sweep
+7,2,407,Sw,N/F,,,,60,42,4.5,25,20,9,very good,,"open, but surrounded by shrubs",
+7,2,408,Sw,Y,Y,D,,46,36,7,20,18,8.5,good,,"in hole, beside very tall mature balsam",
+7,2,409,Sw,Y,Y,L,,35,35,6,14,10,8,good,,"on slight rise, beneath mature balsam",
+7,2,410,Sw,Y,Y,D,,40,36,4.5,14,15,8,good,,"open, slightly chlorotic",
+7,2,411,Sw,N/F,,,,,,,,,,good,,"open, light slash, slightly chlorotic",Dead
+7,2,412,Sw,N/F,,,,35,27,5.5,12,14,7.5,good,,"open, slightly chlorotic",
+7,2,413,Sw,Y,Y,D,,35,35,,20,20,10.5,good,,"dead terminal bud, lateral is leader, light slash","Dead leader, poor vigour"
+7,2,414,Sw,Y,Y,D,,45,45,10.5,20,20,8,good,,"open, in slight depression, machine tracks?",
+7,2,415,Sw,Y,Y,L,,56,47,14,30,30,11.5,good,,open,
+7,2,416,Sw,N/F,,,,41.5,41.5,7,22,25,7,poor,,"leader is moribund, much necrotic and chlorotic foliage",
+7,3,417,Sw,Y,Y,L,Outside PSP,61,61,5,35,31,10.5,good,,"moderately chlorotic, open",
+7,3,418,Sw,Y,Y,D,,43,43,9,25,24,8.5,good,,"open, by old log",
+7,3,419,Sw,Y,Y,L,,45,38,7,20,20,6.5,good,,"amidst small shrubs, at drip line of mature balsam",
+7,3,420,Sw,Y,Y,L,,45,45,3.5,25,25,7,good,,"very slightly chlorotic, under mature balsam",
+7,3,421,Sw,N/F,,,,50,50,8.5,26,24,8,good,,"open, in depression",
+7,3,422,Sw,Y,Y,L,,58.5,58.5,12.5,20,24,7,very good,,"open, rubus idaeus all around",
+7,3,423,Sw,Y,Y,L,,57,57,15,30,25,8,good,,"open, very slightly chlorotic, in depression by stump",
+7,3,424,Sw,Y,Y,L,,50,50,17,25,22,10.5,good,,"open, at drip line of smaller mature balsam",
+7,3,425,Sw,Y,Y,L,,35,35,6.5,18,20,6.5,good,,open,
+7,3,426,Sw,N/F,,,,72,60,22,32,25,15.5,good,,"open, soil was much disturbed at harvest",
+7,3,427,Sw,N/F,,,,65,65,13,34,25,12.5,very good,,"under small balsam, very slightly chlorotic",
+7,3,428,Sw,Y,Y,D,Broken top,71,71,15,35,30,9.5,very good,,in depression under 4m balsam,
+7,3,429,Sw,N/F,,,,54.5,54.5,13.5,25,25,9,good,,open,
+7,3,430,Sw,Y,Y,L,Crook,56,56,15,25,25,9,good,,"open, in slash, right by small log",
+7,3,431,Sw,Y,Y,L,,51,51,7.5,20,25,8.5,good,,open,
+7,3,432,Sw,Y,Y,D,,74,58,6.5,40,38,13.5,very good,,"open, in depression, amongst shrubs",
+7,3,433,Sw,Y,Y,L,,45,35,7,20,20,10,good,,open,
+7,3,434,Sw,Y,Y,L,,73.5,73.5,14.5,30,33,10.5,good,,"tree leaning over top, include, overtopped by small balsam & shrubs",New leader
+7,4,435,Sw,N/F,,,,43.5,43.5,2.5,20,20,7.5,good,,"at dripline of 4m balsam, no herb growth above",
+7,4,436,Sw,Y,Y,D,,35,35,2,14,15,6.5,good,,under canopy of 4m balsam X4,chlorotic
+7,4,437,Sw,Y,Y,L,Crook,61,61,16,25,25,11,good,,open,
+7,4,438,Sw,Y,Y,D,,41,41,10,15,20,7.5,good,,"open, at base of mound, some shrubs",
+7,4,439,Sw,Y,Y,L,,41,31,2.5,22,20,7.5,good,,"slightly chlorotic, at drip line of small balsam",
+7,4,440,Sw,Y,Y,L,,51,51,15,21,16,8,mod-good,,under 2X4m conifers,
+7,4,441,Sw,Y,Y,L,,36.5,36.5,10,16,16,8,good,,open,
+7,4,442,Sw,Y,Y,L,Outside PSP,47,47,5,25,22,9,good,,"in disturbed soil at base of mound, light balsam canopy",
+7,4,443,Sw,Y,Y,L,,35,35,4,25,25,8,good,,"slightly chlorotic, open",
+7,4,444,Sw,N/F,,,,61,42,7,30,25,9.5,mod-good,,"open, 50% necrotic foliage, remaining chlorotic",
+7,4,445,Sw,Y,Y,L,Bent Over,66,66,11,30,38,12.5,good,,"open, soil was disturbed at harvest",
+7,4,446,Sw,Y,Y,D,,51,51,16,25,30,8.5,mod-good,,"in depression, slight chlorosis, open",
+7,4,447,Sw,N/F,,,,55,55,10,33,30,9.5,mod-good,,"open, only herbs growing around it",
+7,4,448,Sw,Y,Y,L,,50,35,7.5,25,25,9,mod-good,,"open, machine disturbed soil, only herbs growing around",
+7,4,449,Sw,Y,Y,L,,49.5,40,5,30,28,8,good,,"open, slight chlorosis",stem bent
+7,4,450,Sw,N/F,,,,50,50,8,23,20,8.5,good,,"in depression, slight chlorosis, under 4m balsam",
+7,4,451,Sw,Y,Y,L,,46,40,8,30,30,1,good,,open,
+8,1,452,Sw,Y,Y,L,,50.5,39,9.5,24,25,8,mod-good,,at dripline of large mature spruce,
+8,1,453,Sw,Y,Y,D,,60,46,8,26,16,11,mod-good,,"crooked stem, open",
+8,1,454,Sw,N/F,,,,55.5,44,5.5,20,17,9,good,,"slightly chlorotic, dripline of mature balsam, slight lean",
+8,1,455,Sw,Y,Y,D,,,,,,,,moderate,,"open, thin foliage",dead
+8,1,456,Sw,N/F,,,,,,,,,,mod-good,,"10deg lean, under willow","slash press, dead"
+8,1,457,Sw,Y,Y,L,,,,,,,,mod-good,,"under large mature, moribund spruce & shrubs, in depression","slash press, dead"
+8,1,458,Sw,Y,Y,L,,42,42,4,19,17,10,moderate,,"at drip line of large mature spruce, light slash",
+8,1,459,Sw,Y,Y,D,,47,36,4.5,17,18,6,mod-good,,by dead rotten stump under 4m bushy balsam,
+8,1,460,Sw,Y,Y,D,,43,43,7,20,20,9,good,,"open, in slight depression",
+8,1,461,Sw,Y,Y,D,,40.5,40.5,7,20,25,8,good,,"within 1.5 m of 462, mature balsam over top",
+8,1,462,Sw,N/F,,,,48,48,6.5,20,19,9,good,,"within 1.5 m of 461, mature balsam over top",
+8,1,463,Sw,Y,Y,L,Outside PSP,35,35,4,12,16,8.5,good,,within 2m of 2 balsam,
+8,1,464,Sw,Y,Y,L,,,,,,,,good,,"amongst shrubs, leaning, slightly bent stem",
+8,1,465,Sw,Y,Y,D,,,,,,,,mod-good,,"in shrubs & slash, some necrotic foliage","veg press, no measure"
+8,1,466,Sw,Y,Y,D,,46,35,6.5,14,17,8,mod-good,,open,Dead
+8,1,467,Sw,N/F,,,,43,34,6.5,15,15,9,good,,"in depression, under rosa aci",forked leader
+8,2,468,Sw,Y,Y,D,,28,28,5.5,20,20,9,good,,"dead terminal bud, split leader, open",
+8,2,469,Sw,N/F,,,,44,44,4.5,16,17,7,mod-good,,"under mature spruce, in moss, 1m from #471","Stem sweep, veg press"
+8,2,470,Sw,Y,Y,L,,36,36,3,22,20,9,good,,"under mature spruce, some chlorotic, necrotic foliage, 1m from #472",
+8,2,471,Sw,Y,Y,L,,47,47,2,20,17,8,mod-good,,"thin foliage, slightly chlorotic, under mature balsam",
+8,2,472,Sw,N/F,,,,49,31,3.5,20,22,10,mod-good,,"open, slightly chlorotic",
+8,2,473,Sw,N/F,,,,61,61,5.5,33,30,10,good,,in light slash/shrubs,
+8,2,474,Sw,Y,Y,L,,37,37,4.5,30,26,8,good,,"on mound, within 1.5m of #475, open",new leader
+8,2,475,Sw,Y,Y,L,,47,47,2.5,20,17,8,mod-good,,"within 1.5m of #474, under mature balsam",
+8,2,476,Sw,N/F,,,,41,41,2,18,18,9,mod-good,,"50cm from #477, under 4m balsam, by dead rotten stump",
+8,2,477,Sw,Y,Y,L,,30.5,30.5,2,15,20,7,good,,"50cm from #476, under 4m balsam, by dead rotten stump",
+8,2,478,Sw,Y,Y,L,,43,43,1.5,15,15,6.5,good,,"within 1.5m of #479, under mature balsam and spruce",
+8,2,479,Sw,N/F,,,,48,48,3,20,20,9,very good,,"within 1.5m of #479, open, (one dead seedling b/t #479 & #480)",
+8,2,480,Sw,Y,Y,L,,32,32,5.5,12,12,9,good,,open but for shrubs,"Stem bent, veg press"
+8,2,481,Sw,Y,Y,D,,46,46,9,20,17,11,good,,"chlorotic, in hole, open",
+8,2,482,Sw,Y,Y,D,,,,,,,,good,,"slightly chlorotic, open",Dead
+8,2,483,Sw,Y,Y,D,,60,60,11,40,30,15.5,good,,"slightly bent leader, at dripline in depression of mature balsam",
+8,3,484,Sw,Y,Y,L,Broken Pigtail,65,55,12,25,32,9.5,mod-good,,"slight chlorosis, open",
+8,3,485,Sw,Y,Y,L,,41,41,4,16,18,6.5,good,,"slight chlorosis, under mature balsam, in slight depression",
+8,3,486,Sw,Y,Y,D,,52,52,3.5,28,30,9,good,,"within 2m of #487, open",New leader
+8,3,487,Sw,Y,Y,D,,47,47,3.5,25,22,8,good,,"within 2m of #486, under small balsam",
+8,3,488,Sw,Y,Y,L,,57,57,7.5,22,23,10,good,,"slight chlorosis, slight lean, at dripline of mature balsam",
+8,3,489,Sw,N/F,,,,,,,,,,mod-good,,"slightly chlorotic, open, sparse foliage on stem ",moribund
+8,3,490,Sw,Y,Y,L,,32.5,45,12,28,26,10.5,good,,open,
+8,3,491,Sw,N/F,,,,67.5,65,12,34,33,13,good,,"slight chlorosis, open",
+8,3,492,Sw,Y,Y,D,,46,46,4,30,26,9,good,,under cluster of young balsam,
+8,3,493,Sw,N/F,,,,64,64,9,35,30,12,good,,"slightly bent leader, open, in depression",
+8,3,494,Sw,Y,Y,D,,61,61,7,32,25,10,good,,"open, some chlorosis",
+8,3,495,Sw,Y,Y,D,,64.5,60,17,25,20,9.5,good,,open,
+8,3,496,Sw,N/F,,,,55,40,12,21,15,9,mod-good,,"open, in 10cm deep trench",
+8,3,497,Sw,Y,Y,L,Unhealthy,24,24,5,23,21,8,mod-good,,"chlorotic, open",slash press
+8,3,498,Sw,Y,Y,L,Crook at base,58,41,7.5,25,29,10.5,good,,"open, slightly chlorotic, slight lean",
+8,4,499,Sw,Y,Y,D,,65,65,13.5,26,25,10,very good,,"open, in depression, surrounding hole",
+8,4,500,Sw,Y,Y,D,,55,40,3,30,24,10.5,very good,,"under balsam, bent stem",
+8,4,501,Sw,Y,Y,L,,51,42,6,24,22,8,good,,"chlorotic, open, by very old rotten logs",
+8,4,502,Sw,N/F,,,,,,,,,,mod-good,,"at drip line of mature balsam, slight chlorosis",not found
+8,4,503,Sw,N/F,,,,42,42,3.5,17,20,8,mod-good,,"slight chlorosis, open",
+8,4,504,Sw,N/F,,,,40,40,5,15,15,8,mod-good,,"open, but thick shrubs within 60cm",
+8,4,505,Sw,N/F,,,,,,,,,,poor-mod,,"open, bent/stunted leader, crooked, chlorotic/necrotic foliage",Dead
+8,4,506,Sw,Y,Y,D,,40,40,3,16,17,8,mod-good,,under balsam canopy,
+8,4,507,Sw,Y,Y,L,,50,36,6,25,25,8,good,,"some thin foliage, under 2 moribund balsam, some shrub cover: rosa aci, rubus pub",
+9,1,508,Sw,Y,Y,D,,45,45,9,20,20,6,good,,open,
+9,1,509,Sw,Y,Y,D,,44,25,7,20,20,6.5,mod-good,,"open, in crook of rotten stump",Partial slash press
+9,1,510,Sw,Y,Y,D,,,,,,,,poor-mod,,"dead leader measured lateral, under mature trees sparse foliage",DEad
+9,1,511,Sw,N/F,,,,40,40,5,10,10,4.5,poor-mod,,"top 1/2 of leader dead, under mature trees, some dead foliage",new leader
+9,1,512,Sw,N/F,,,,37,24,2,10,15,6,good,,"open, in slight depression",
+9,1,513,Sw,Y,Y,D,,45,40,4,15,15,4.5,moderate,,"at dripline of mature balsam, crooked leader, one dead lateral, some necrotic foliage",Bent stem
+9,1,514,Sw,Y,Y,L,,38,28,5,24,20,5.5,good,,"slight chlorosis, open",
+9,1,515,Sw,N/F,,,,30,20,4,15,20,5.5,moderate,,"open, slight chlorosis, necrotic & missing needles on bottom 1/2 of leader",New leader
+9,1,516,Sw,Y,Y,D,Outside PSP,,,,,,,poor,,"under immature spruce, top 1/2 moribund",Dead
+9,1,517,Sw,N/F,,,,51,35,5,20,20,5.5,good,,"open, some necrotic foliage",stem sweep
+9,1,518,Sw,N/F,,,,49,35,5,15,26,5.5,good,,"dead terminal bud, measured lateral, 1.5m from 2 mature spruce",
+9,1,519,Sw,N/F,,,,,,,,,,moribund,,"open, nearly dead, esp. top 1/2",Moribund
+9,1,520,Sw,Y,Y,D,,,,,,,,mod-good,,"at dripline of mature spruce, curved leader",dead
+9,1,521,Sw,N/F,,,,42,34,5,20,20,6,good,,open,
+9,1,522,Sw,N/F,,,,48,30,1,20,20,9,good,,"open, slight lean, some dead foliage",
+9,2,523,Sw,N/F,,,,50,32,2.5,25,20,6,good,,"under mature trees, slightly chlorotic",
+9,2,524,Sw,N/F,,,,48,48,7,20,20,7.5,good,,under large mature spruce,
+9,2,525,Sw,Y,Y,D,,53,50,6,25,30,5,moderate,,"dead terminal bud, open, on slight rise",
+9,2,526,Sw,Y,Y,D,,,,,,,,poor-mod,,"very little foliage on leader, some necrotic foliage, open",Dead
+9,2,527,Sw,Y,Y,D,,26,25,0,20,12,6.5,good,,"open, slight chlorosis",Stem bent
+9,2,528,Sw,N/F,,,,,,,,,,moderate,,"under mature trees, dead/missing needles",Dead
+9,2,529,Sw,N/F,,,,30,18,3.5,20,15,5,good,,under mature trees,
+9,2,530,Sw,N/F,,,,33,25,3,10,10,4.5,moderate,,"dead terminal bud, few laterals, open",
+9,2,531,Sw,Y,Y,L,,45,45,4.5,25,20,5.5,mod-good,,"under mature balsam/spruce, on slight rise",
+9,2,532,Sw,Y,Y,D,,50,50,2.5,20,10,6,good,,"open, very slightly chlorotic, on slight rise",
+9,2,533,Sw,Y,Y,D,,41,41,0,20,20,6.5,good,,"at drip line of mature balsam, on higher ground","No leader, broken"
+9,2,534,Sw,Y,Y,D,,30,20,0,12,12,4,mod-good,,"under mature balsam, on higher ground","Needle cast, No leader"
+9,2,535,Sw,Y,Y,D,,37,25,0,25,20,7,moderate,,"open, sparse foliage, on rise by dead  stump",
+9,2,536,Sw,N/F,,,,35,23,0,20,25,4.5,good,,"open, slight chlorosis",
+9,2,537,Sw,N/F,,,,,,,,,,moderate,,"open, dead leader (measured lateral), in hole",Moribund
+9,2,538,Sw,Y,Y,D,,58.5,54,4,25,25,8,mod-good,,"under dense canopy, foliage somewhat sparse",
+9,2,539,Sw,Y,Y,D,,43,28,2.5,20,23.5,5.5,mod-good,,under mature balsam stand,
+9,3,540,Sw,Y,Y,D,,,,,,,,mod-good,,"1m from 5m balsam, dead leader, in rotten log ",Dead
+9,3,541,Sw,Y,Y,D,,34,34,7,15,10,4.5,poor,,"dead leader, open but for some alder, in rotten log",
+9,3,542,Sw,Y,Y,D,,56,45,9.5,30,30,6,mod-good,,"under balsam, sparse foliage",
+9,3,543,Sw,Y,Y,D,,,,,,,,poor-mod,,"dead leader, at dripline of balsam stand, on hammock",Dead
+9,3,544,Sw,Y,Y,D,,17,17,4,10,15,4,poor-mod,,"dead leader, open, sparse foliage","Needle cast, New leader"
+9,3,545,Sw,Y,Y,D,,41,35,6,15,15,5.5,moderate,,dead buds,
+9,3,546,Sw,N/F,,,,56.5,30,7,32,32,8,poor-mod,,"most of leader dead, at drip line of balsam",
+9,3,547,Sw,Y,Y,D,,39,28,7,22,22,6.5,moderate,,"dead terminal bud, at dripline",
+9,3,548,Sw,Y,Y,D,Outside PSP,,,,,,,mod-good,,open,Moribund
+9,3,549,Sw,N/F,,,,38,38,4,20,20,5,good,,at dripline of 4m balsam,Stem bent
+9,3,550,Sw,N/F,,,,,,,,,,mod-good,,"open, slight chlorosis",Veg press. no measurement
+9,3,551,Sw,Y,Y,D,,44,28,7,20,30,6,moderate,,"dead leader, measured lateral, at dripline of balsam",
+9,4,552,Sw,N/F,,,,,,,,,,poor-mod,,"at dripline of balsam stand, necrotic foliage at middle 1/3 of stem",Moribund
+9,4,553,Sw,Y,Y,D,,45,45,0,24,26,7,good,,at dripline of 5m spruce,
+9,4,554,Sw,Y,Y,D,,28,28,2.5,20,20,4.5,mod-good,,"at base of rotten stump, under mature spruce",
+9,4,555,Sw,Y,Y,D,,38,38,5,25,22,5,mod-good,,"under spruce, balsam canopy",
+9,4,556,Sw,Y,Y,D,,63,51,5.5,30,35,6.5,good,,"at dripline, in redrot",
+9,4,557,Sw,Y,Y,L,,40,40,3.5,23,20,6,good,,under balsam canopy,
+9,4,558,Sw,N/F,,,,,,,,,,good,,"dead terminal bud, necrotic foliage at ends of laterals, open",
+9,4,559,Sw,Y,Y,D,,45,45,0,30,25,8,mod-good,,under balsam,
+9,4,560,Sw,N/F,,,,50,30,5.5,25,20,5,good,,"at dripline of mature spruce, higher and drier",
+9,4,561,Sw,N/F,,,,43,43,5,15,20,6,good,,"open, higher and drier",
+9,4,562,Sw,Y,Y,D,,57,57,5.5,15,15,6.5,good,,"under dense canopy, needles slightly sparse *  NOTE: plot 9 was in low wet area. quadrate 1 & 1/2 of 2 was more wet than rest of plot.",
+10,1,563,Sw,Y,Y,D,Broken tag,57.5,57.5,2.5,25,26.5,8,very good,,"under 5m balsam, in lower area, 6m from swamp",
+10,1,564,Sw,Y,Y,D,,65,65,5,35,41,8,good,,"under mature balsam, low area, dead terminal bud, lateral is leader",Dead
+10,1,565,Sw,Y,Y,L,,34,28,6,15,15,4.5,mod-good,,"sparse foliage, 2m from swamp",
+10,1,566,Sw,N/F,,,,32,37,6.5,23,17,4.5,mod-good,,"under mature balsam, 4m from swamp",
+10,1,567,Sw,Y,Y,D,,,,,,,,good,,"under mature spruce, 10m from swamp on slope",
+10,1,568,Sw,Y,Y,D,,48,41.5,3.5,26,26,6.5,good,,"under mature spruce/balsam, 1 dead lateral",
+10,1,569,Sw,N/F,,,,35,27,5,25,21,6.5,good,,"at dripline of balsam, 5m from swamp, low area",
+10,1,570,Sw,N/F,,,,36,29,7,12,20,5,mod-good,,"dead leader, dead buds, open, 5m from swamp, low area",
+10,1,571,Sw,Y,Y,L,Outside PSP,44,39,7,25,37.5,6,good,,"open, on mound, near swamp",
+10,1,572,Sw,N/F,,,,,,,,,,good,,"dead terminal bud, at dripline of balsam, lateral is leader",Dead
+10,1,573,Sw,Y,Y,D,,35.5,35.5,4,17,19,6,very good,,"under mature balsam, on rise 8m from swamp",
+10,1,574,Sw,Y,Y,L,Outside PSP,41,41,5.5,24,17,5.5,mod-good,,"under mature balsam, on slope above swamp",
+10,1,575,Sw,Y,Y,D,,57,57,5.5,33,32.5,9.5,very good,,"at dripline of mature spruce, up on slope from swamp",
+10,1,576,Sw,N/F,,,,51,51,4,25,22,6.5,good,,"under mature balsam, by rotten stump",
+10,1,609,Sw,N/F,,,,,,,,,,good,,"open, leader chopped off, stepped on?, very bent stem long lateral is leader",
+10,2,577,Sw,Y,Y,D,,50,25,4,22,27,5.5,good,,"at dripline of mature balsam, by cluster of immature trees",
+10,2,578,Sw,Y,Y,D,,49,25,4,22,30,6,good,,"under mature balsam, by cluster of immature trees",
+10,2,579,Sw,Y,Y,D,,42.5,47.5,8.5,25,27,7,good,,"open, but by cluster of immature trees",New leader/ partial press
+10,2,580,Sw,Y,Y,D,Outside PSP,43,36,5,20,21,7,good,,open,
+10,2,581,Sw,Y,Y,D,,52,52,4,20,15,6.5,good,,under mature spruce/balsam,
+10,2,582,Sw,Y,Y,D,,60,60,5.5,20,20,8,good,,"open, slight chlorosis",
+10,2,583,Sw,N/F,,,,51,51,5,27,30,7.5,very good,,"open, on ridge above swamp",
+10,2,584,Sw,Y,Y,D,Outside PSP,40,40,4,25,24,5.5,good,,"under juvenile balsam, on ridge",
+10,2,585,Sw,Y,Y,D,,50,50,4,24,27,7,good,,"open, on ridge",needle cast
+10,2,586,Sw,Y,Y,D,Outside PSP,53,45,3.5,20,29,8,good,,"open, on ridge, 1m from cluster of young trees",
+10,2,587,Sw,N/F,,,,60,60,0,25,25,9,good,,"at dripline of balsam, on ridge",New leader lateral
+10,2,588,Sw,Y,Y,D,,24,24,7,7,6,,very poor,,"dead leader, necrotic foliage, open on ridge",New leader/ old leader dead
+10,2,589,Sw,Y,Y,D,,38,38,5,19,16,5,moderate,,"under heavy mixed canopy, on ridge, sparse foliage on leader",
+10,2,590,Sw,Y,Y,L,Outside PSP,44,28,5,25,25,5,good,,"under heavy balsam canopy, on ridge",
+10,2,591,Sw,Y,Y,D,Outside PSP,57,57,3,20,20,6.5,good,,"open, surrounded by mature trees, on ridge",
+10,3,592,Sw,Y,Y,D,,55,55,6,31,28,7,good,,"under mature balsam, on ridge",
+10,3,593,Sw,Y,Y,D,,45,35,10,20,20,5.5,mod-good,,"dead term bud, on slope 15m from swamp, open",
+10,3,594,Sw,N/F,,,,35,35,4,12,10,7,good,,"open, bent leader, slight chlorosis, on slight slope 10m from swamp",
+10,3,595,Sw,Y,Y,D,,35,35,6,20,15,5.5,good,,"at dripline of mature balsam, some necrotic foliage, on slope 8m from swamp","New leader, needle cast"
+10,3,596,Sw,Y,Y,D,,50,40,4,25,30,7,very good,,"open, on slope 10-12m from swamp",
+10,3,597,Sw,Y,Y,D,,39,39,4,25,20,7,good,,"at dripline of balsam, on ridge",Stem bent 
+10,3,598,Sw,Y,Y,D,,46,35,4,23,23,7,good,,"at dripline of balsam, on ridge",
+10,3,599,Sw,N/F,,,,25,25,2,10,10,4,moderate,,"dead terminal bud, split leader, under balsam, on slope 8m from swamp",new leader
+10,3,600,Sw,Y,Y,D,,18,18,10,10,6,5.5,mod-good,,"open, on slope 10m from swamp, by rotten log and stump",New leader
+10,3,601,Sw,Y,Y,D,,,,,,,,good,,"open, low area 2-4m from swamp",DEad
+10,3,602,Sw,Y,Y,L,,46,46,2.5,25,30,6,very good,,"under mature spruce/balsam, on slight rise 5m from swamp",
+10,3,603,Sw,Y,Y,D,Outside PSP,40,25,4.5,20,18,5.5,mod-good,,"dead leader & top laterals, measured lateral, at dripline of balsam, low area 3-4m from swamp",
+10,3,604,Sw,Y,Y,D,,55,32,1.1,22.5,20,7.5,good,,"at dripline of mature spruce, low area 3m from swamp",
+10,4,605,Sw,Y,Y,D,,,,,,,,good,,"open, chlorotic, some necrotic foliage, low area 3-4m from swamp",Dead
+10,4,606,Sw,Y,Y,D,,57,57,3.5,25,20,6.5,good,,"at dripline of mature balsam, low area 5m from swamp",
+10,4,607,Sw,N/F,,,,35,20,3.5,20,20,6,good,,"open, low area 2-3m from swamp",Stem bent
+10,4,608,Sw,N/F,,,,,,,,,,moderate,,"open, in crook of stump, right by swamp, *  the rest of quadrate #4 is located in the swamp, no more trees",Missing
+11,1,610,Sw,Y,Y,D,,,,,,,,good,,"open, slight chlorosis on bottom 1/2",slash press no tree
+11,1,611,Sw,N/F,,,,37,37,3,20,17,9.5,good,,open,stem bent at base
+11,1,612,Sw,Y,Y,L,,31,29,2,16,14,6,good,,"open, slight chlorosis",
+11,1,613,Sw,Y,Y,L,,41,41,1.5,18,24,7,very good,,under balsam canopy,
+11,1,614,Sw,Y,Y,L,Outside PSP,49,35,,20,22,8,very good,,"under 5m balsam, on mound",chlorotic
+11,1,615,Sw,Y,Y,D,,53,53,4.5,20,32,7,good,,"under mature balsam overstory, slight chlorosis",new leader
+11,1,616,Sw,Y,Y,L,Outside PSP,43,25,,23,15,7.5,good,,"under med-high mixed overstory, slight chlorosis",
+11,1,617,Sw,Y,Y,D,Outside PSP,,,,,,,mod-good,,"under med-high mixed overstory, slight chlorosis",moribund
+11,1,618,Sw,Y,Y,L,Outside PSP,45,27,2.5,22,26,7.5,good,,"wide open, chlorotic, some necrotic foliage near top",new leader
+11,1,619,Sw,Y,Y,D,,47,47,2,24,25,9,very good,,under fairly heavy mixed med-high overstory,
+11,1,620,Sw,Y,Y,D,,,,,,,,good,,"1.5m from tall spruce, heavy foliage overstory",moribund
+11,1,621,Sw,N/F,,,,41,41,,18,15,8.5,mod-good,,"slightly chlorotic, open directly overhead",chlorotic
+11,1,622,Sw,N/F,,,,48,33,,16,16,9,good,,at dripline of 5m balsam,chlorotic
+11,1,623,Sw,Y,Y,L,,57,57,2,15,22,10,good,,"within 60cm of 2X4 5m balsam, slightly chorotic",new leader
+11,1,624,Sw,N/F,,,,45,40,4,20,21,7.5,good,,"wide open, slight chlorosis",
+11,1,625,Sw,Y,Y,L,Outside PSP,40,40,14,20,20,8,good,,"wide open, well curved stem",
+11,1,626,Sw,Y,Y,L,Outside PSP,45,45,2.5,27,22,10,good,,"wide open, slight chlorosis",
+11,1,627,Sw,Y,Y,L,,51,51,4,32,27,8,good,,light overstory of med-high balsam,
+11,1,628,Sw,Y,Y,D,,53,53,3.5,25,20,9,good,,"1m from 8-10m balsam, moderately heavy overstory",
+11,1,629,Sw,Y,Y,L,,40,40,5.5,23,25,7,good,,light overstory of 7-10m balsam,
+11,1,630,Sw,Y,Y,L,Outside PSP,73,73,18,40,37,11,good,,"wide open, slightly chlorotic",
+11,2,631,Sw,Y,Y,L,Outside PSP,60,47,8,30,39,10,good,,"open, some chlorotic foliage",
+11,2,632,Sw,N/F,,,,,,,,,,moribund,,"under light 2-5m balsam overstory, in depression",Dead
+11,2,633,Sw,N/F,,,,48,27,2,21,20,7,good,,"open, chlorotic",
+11,2,634,Sw,Y,Y,L,,47,47,6.5,29,30,8,good,,overtopped by one mature spruce,
+11,2,635,Sw,Y,Y,D,,60,60,2.5,25,20,9,good,,"slightly chlorotic, open",
+11,2,636,Sw,Y,Y,L,,34,34,5,20,18,8.5,good,,"overtopped by one mature balsam, slight curve to stem",new leader
+11,2,637,Sw,Y,Y,D,,55,43,5,20,22,7.5,good,,"at dripline of one 6-7m balsam, near other immature balsam",
+11,2,638,Sw,Y,Y,D,,45,45,5.5,15,18,8,good,,"open, slight curve in stem, some brush on top of (moved)",
+11,2,639,Sw,Y,Y,L,Outside PSP,48,48,6,18,20,6,good,,"under 1X5m balsam, within 50cm of it",
+11,2,640,Sw,Y,Y,L,Outside PSP,52,39,1.5,22,25,8,good,,under light overstory of balsam/spruce,
+11,2,641,Sw,N/F,,,,41,41,,15,16,7.5,good,,"chlorotic, 80cm from mature balsam, quite dense overhead",
+11,3,642,Sw,Y,Y,L,Outside PSP,46,46,3,25,28,8,good,,"under heavy balsam directly overhead, open to south",
+11,3,643,Sw,Y,Y,L,Outside PSP,43,43,10.5,22,20,7.5,good,,"open, slight chlorosis, by slash",
+11,3,644,Sw,Y,Y,L,,36,36,5.5,21,22,8,good,,"at drip line of inactive balsam, open to west, some slash and shrubs",new leader
+11,3,645,Sw,Y,Y,D,,,,,,,,mod-good,,"open but for shrubs & light slash, some thinning of needles",veg and slash press
+11,3,646,Sw,Y,Y,D,,,,,,,,good,,"1m from 4m balsam, overtopped by","slash press, Dead"
+11,3,647,Sw,Y,Y,D,,,,,,,,good,,"open, 50cm from 1.5m balsam","Tree missing, found tag"
+11,3,648,Sw,Y,Y,L,,38,38,,30,37,7,good,,"at dripline of 5-6m balsam, open to south",broken stem
+11,3,649,Sw,N/F,,,,16,16,6,7,7,8.5,good,,"open, loni. inv. to south","slash press, new leader"
+11,3,650,Sw,Y,Y,L,,38,32,5.5,22,20,6,good,,"open, chlorotic",
+11,3,651,Sw,Y,Y,L,,60.5,60.5,16,26,26,10,good,,"open, slightly chlorotic",
+11,3,652,Sw,N/F,,,,44,44,6,21,18,9.5,good,,"open, slightly chlorotic",
+11,3,653,Sw,Y,Y,L,Outside PSP,44,44,3,26,22,9,good,,"open to south & west, at dripline of 4m balsam, slight chlorosis",
+11,3,654,Sw,N/F,,,,45,45,1.5,18,16,7.5,mod-good,,"open, but within 1.5m of 3m balsam",
+11,3,655,Sw,Y,Y,D,,46,46,5,30,30,8,good,,under light overstory of 4m balsam cluster,
+11,3,656,Sw,Y,Y,L,,48,35,2,25,25,8,very good,,"10deg lean, at dripline of 5m balsam, open to north",
+11,3,657,Sw,Y,Y,L,,46,46,4.5,19,15,8,good,,"open, looks like leader bitten off or broken",
+11,3,658,Sw,Y,Y,D,,45,45,2,25,28,7.5,good,,"open, slight chlorosis   ","stem bent, new leader"
+11,4,659,Sw,N/F,,,,40,4,2,22,22,8,very good,,"in hole with slash to south & west, open",
+11,4,660,Sw,N/F,,,,57.5,57.5,15,23,10,10,good,,"2 stems, open (tall stem measured)",
+11,4,661,Sw,Y,Y,L,Outside PSP,62,62,13,35,34,10,good,,"dead terminal bud, open, crooked stem /leader which was lateral, b/t two logs",
+11,4,662,Sw,Y,Y,L,Outside PSP,63,63,15,35,40,13,mod-good,,"wide open, slightly chlorotic",
+11,4,663,Sw,Y,Y,D,,57,42,6,25,29,10,good,,"chlorotic, wide open",
+11,4,664,Sw,Y,Y,D,,50,40,6.5,20,22,8,good,,"chlorotic, wide open, on mound",
+11,4,665,Sw,Y,Y,L,,52,37,10.5,22,24,9,good,,"wide open, slightly chlorotic",
+11,4,666,Sw,N/F,,,,46,35,2,20,24,9,good,,"wide open, slightly chlorotic",
+11,4,667,Sw,Y,Y,D,,41,41,2,20,26,8.5,good,,"wide open, slightly chlorotic, in slight depression",
+11,4,668,Sw,N/F,,,,41,41,3.5,19,20,9,good,,"wide open, in 6-8cm deep hole",
+11,4,669,Sw,N/F,,,,45,45,2,30,35,8,good,,"wide open, slightly chlorotic",
+11,4,670,Sw,N/F,,,,35,35,4,23,19,8.5,good,,"stem bent at 45 deg, open",
+11,4,671,Sw,Y,Y,L,,45,37,1.5,24,22,8.5,good,,"open, but 2.5m from tall mature spruce",Bushy top
+11,4,672,Sw,N/F,,,,52,52,3.5,27,21,9,very good,,open,
+11,4,673,Sw,Y,Y,L,Outside PSP,40,40,2,25,19,7.5,mod-good,,open,
+11,4,674,Sw,Y,Y,D,,51,45,1.5,25,22,7,good,,at dripline of 2X3m balsam + one tall mature spruce,chlorotic
+11,4,675,Sw,Y,Y,L,,52,52,3,30,25,10,good,,"slight chlorosis, under light balsam overstory",new leader
+11,4,676,Sw,Y,Y,D,Outside PSP,25,25,3.5,6,3,8.5,good,,open,"Neeedle cast, new leader"
+12,1,677,Sw,N/F,,,,40,30,3.5,20,20,6,good,,"wide open, chlorotic",
+12,1,678,Sw,Y,Y,L,,45,45,12,15,22,10,good,,"wide open, in light slash, 5deg lean, bent leader","partial slash press, new leader"
+12,1,679,Sw,N/F,,,,36,36,5,20,20,7,very good,,"wide open, but within 1m of 2X1m balsam",
+12,1,680,Sw,Y,Y,L,,25,25,3,10,10,,good,,wide open,"needle cast, new leader"
+12,1,681,Sw,Y,Y,L,,61.5,61.5,14,25,25,9.5,good,,"wide open, slightly chlorotic",
+12,1,682,Sw,Y,Y,L,PSP # 844,57,57,13.5,30,38,11,good,,"wide open, slightly chlorotic",
+12,1,683,Sw,Y,Y,D,,46,35,5.5,20,18,5.5,good,,"10deg lean, bent stem, under light balsam canopy",
+12,1,684,Sw,N/F,,,,57,39,2,18,25,8,mod-good,,"wide open, chlorotic, on edge of 50cm ",
+12,1,685,Sw,Y,Y,L,,57,57,12,37,32,9,good,,"wide open, in hole, lateral may take over as leader",
+12,1,686,Sw,Y,Y,L,,40.5,40.5,11.5,25,28,8.5,good,,"wide open, slight chlorosis",
+12,1,687,Sw,N/F,,,,46,46,4.5,25,27,8.5,good,,"on dripline of 5m balsam, slight chlorosis, shrubs over top",
+12,2,688,Sw,Y,Y,L,,49,49,8,30,28,7.5,good,,"2m from 10m mature balsam, open to south & west",
+12,2,689,Sw,N/F,,,,72,72,21,40,40,12.5,good,,"wide open, slightly chlorotic",
+12,2,690,Sw,Y,Y,L,,49,49,6,28,28,9,good,,open,
+12,2,691,Sw,N/F,,,,45,32,3,20,21,9,good,,"open, 2m from tall mature spruce, wide open to south",
+12,2,692,Sw,Y,Y,L,,49,49,7,31,22,8.5,good,,"open, in light slash, split leader, 2m from tall mature balsam",
+12,2,693,Sw,Y,Y,L,,42,42,11,26,25,8,good,,"open, 1m from very tall dead birch",
+12,2,694,Sw,Y,Y,L,,50,50,12,25,28,8,good,,"in hole, wide open but for shrubs, light slash",
+12,2,695,Sw,N/F,,,,49,49,15,25,25,7,good,,"dead terminal bud, wide open",
+12,2,696,Sw,Y,Y,D,,65,55,10,25,25,8.5,very good,,wide open but for rubus parv.,
+12,2,697,Sw,Y,Y,L,,62,62,15,35,37,12.5,good,,"wide open, at base of stump, leader growing at 10deg angle",
+12,2,698,Sw,Y,Y,D,,36,36,9,20,20,6.5,good,,wide open but for shrubs of many varieties,"veg press, stem bent"
+12,2,699,Sw,Y,Y,L,,61,61,17,30,35,10,good,,wide open but for 1m young alder,
+12,3,700,Sw,Y,Y,D,,,,,,,,very good,,"wide open, 50cm from clump of loni inv",Dead
+12,3,701,Sw,Y,Y,L,,55,55,3.5,28,27,8,good,,"wide open, very slightly chlorotic",
+12,3,702,Sw,Y,Y,D,,45,45,1.5,20,20,7.5,good,,"wide open, on edge of 7-8cm deep wide screef",
+12,3,703,Sw,N/F,,,,47.5,40,7,24,29,8,good,,"on edge of hummock, wide open",Stem bent
+12,3,704,Sw,Y,Y,L,,51,51,7,25,26,9,very good,,"open, by light slash, 1.5m from 4m balsam",
+12,3,705,Sw,N/F,,,,48,48,2.5,22,20,7.5,good,,"under low, light balsam, very high fir, spruce canopy",
+12,3,706,Sw,Y,Y,L,,45,45,4.5,20,22,6,very good,,under one tall spruce,
+12,3,707,Sw,Y,Y,L,,45,45,1.5,17,30,8,good,,"slightly chlorotic, open",
+12,3,708,Sw,Y,Y,L,,48,48,3.5,18,22,7.5,good,,"bent stem, slightly chlorotic, open",
+12,3,709,Sw,Y,Y,D,,53,53,2,28,31,6.5,very good,,"under high balsam canopy, in rotten log 100%, slightly chlorotic",
+12,3,710,Sw,Y,Y,D,,46,46,0.5,19.5,15,7,good,,"open, slightly chlorotic",
+12,3,711,Sw,N/F,,,,50,50,0.5,20,20,6.5,good,,"open, slightly chlorotic",
+12,3,712,Sw,Y,Y,L,,40,40,1,22,20,6,good,,"at dripline of tall mature spruce, on mound with 2 rotten logs beside, slightly chlorotic",
+12,3,713,Sw,Y,Y,L,,28,28,0.5,17,19,6,very good,,1m from very tall mature fir,
+12,4,714,Sw,Y,Y,D,,35,27,4,22,20,6.5,good,,"open, 10deg lean",
+12,4,715,Sw,Y,Y,L,,30,30,5,18,20,6,good,,"plug 1cm out of ground, at dripline of mature tall balsam, slight chlorosis",New leader
+12,4,716,Sw,Y,Y,L,,42,42,0.5,24,27,9.5,very good,,1m from very tall mature balsam,
+12,4,717,Sw,N/F,,,,47,47,2,22,22,8,good,,"chlorotic, dead terminal bud, under 1X10m mature balsam",
+12,4,718,Sw,Y,Y,L,,54,54,6,32,27,8,very good,,1m from very tall mature balsam,
+12,4,719,Sw,N/F,,,,33.5,33.5,3,14,12,5,very good,,"under one very tall mature fir, short laterals",
+12,4,720,Sw,Y,Y,L,,46.5,46.5,2.5,25,15,5.5,good,,"1m from 10m mature balsam, at dripline of very tall mature fir",
+12,4,721,Sw,Y,Y,L,,23,23,1.5,10,10,5,poor-mod,,"plug exposed 1cm, dead terminal bud leader, other dead laterals/buds dense canopy directly overhead",
+12,4,722,Sw,N/F,,,,35,35,0.5,10,10,9,good,,"at dripline of very tall mature fir, chlorotic",Slash press
+12,4,723,Sw,Y,Y,L,,37,37,2,22,20,6.5,good,,"chlorotic, under very tall mature fir & 10m mature balsam",
+12,4,724,Sw,N/F,,,,45,45,10,26,25,8.5,very good,,open,
+13,1,725,Sw,,,,,,,,,,,very good,,at dripline of large mature balsam with heavy foliage,Dead
+13,1,726,Sw,,,,,,,,,,,good,,"1m from thick stand of small conifers, under mature spruce",not found
+13,1,727,Sw,,,,,42,30,4,30,21,6.5,very good,,"open, near thick stand of small conifers",
+13,1,728,Sw,,,,,25,20,4,10,10,5,poor-mod,,"top 1/2 of leader dead, under thick canopy, sparse foliage","needle cast, new leader"
+13,1,729,Sw,,,,,42,34,3,16,16,5,moderate,,"1.5m from #728, thick canopy",
+13,1,730,Sw,,,,,49,49,11,25,20,8.5,good,,under a tall mature spruce,
+13,1,731,Sw,,,,,35,32,7,18,18,6,good,,"in depression, under mature spruce & balsam, slightly chlorotic",
+13,1,732,Sw,,,,,47,41,6,27,22,8,good,,"open, slightly chlorotic",
+13,1,733,Sw,,,,,56,56,4,20,18,5.5,good,,under heavy canopy,
+13,1,734,Sw,,,,,36,30,3,14,15,6,mod-good,,"at dripline of 3 surrounding conifers, chlorotic",
+13,1,735,Sw,,,,,42,42,7,22,25,10,good,,at dripline of 1 small balsam & 1 small spruce ,
+13,1,736,Sw,,,,,42,42,4,15,10,7,good,,"at dripline of 1X10m balsam, shrubs and light slash",
+13,1,737,Sw,,,,,32,22,3,8,10,8,good,,"open, surrounded by cal. canadensis",
+13,2,738,Sw,,,,,65,46,15,30,32,11,good,,"open, very slightly chlorotic",
+13,2,739,Sw,,,,,56,56,10,25,27,9,good,,"open, slightly chlorotic, slightly wary stem",
+13,2,740,Sw,,,,,52,52,8,30,27,9,good,,"under 1X8m balsam, in 20cm deep trench",
+13,2,741,Sw,,,,,,,,,,,good,,"wide open, heavy shrubs within 1m",
+13,2,742,Sw,,,,,55,55,13,20,25,12,good,,"wide open, in slight depression",
+13,2,743,Sw,,,,,63,55,11,20,3,9.5,good,,"wide open, on small mound, slightly chlorotic","animal bed, stem bent"
+13,2,744,Sw,,,,,47,35,4.5,17,18,9,good,,"wide open, split leader, slightly chlorotic ",
+13,2,745,Sw,,,,,50.5,50.5,11,22,25,6.5,good,,"open, 1m from 2m spruce, light slash",
+13,2,746,Sw,,,,,60,55,6,22,20,8,good,,"at dripline of 2 conifers, in hole by rotten stump, light slash",
+13,2,747,Sw,,,,,,,,,,,very good,,"wide open, crooked leader, leaning at 10deg, in slash & heavy shrubs",Dead
+13,2,748,Sw,,,,,63.5,43,9,28,31,9,very good,,"open but for rubus. par., b/t 2 old rotten logs",
+13,2,749,Sw,,,,,,,,,,,mod-good,,"open but for heavy shrubs around, in depression",veg press- dead
+13,2,750,Sw,,,,,,,,,,,good,,"under juvenile balsam & tall dead birch, in 15cm depression","slash press, hortizontal stem"
+13,2,751,Sw,,,,,,,,,,,poor,,open,Not found
+13,2,752,Sw,,,,,40,35,5,16,15,7,good,,"at dripline of one mature balsam, in depression",
+13,2,753,Sw,,,,,71,71,15,25,30,10,good,,"open, very slightly chlorotic, in depression",
+13,2,754,Sw,,,,,37,15,4,17,15,7,mod-good,,"at dripline of one mature balsam, in depression",
+13,2,755,Sw,,,,,,,,,,,good,,"2 stems, open but for rubu.pub.","slah press, no measure"
+13,2,756,Sw,,,,,37,37,6,22,28,7,good,,"under mature balsam, in depression",
+13,2,757,Sw,,,,,,,,,,,moribund,,"in depression, under heavy shrub",Dead
+13,2,758,Sw,,,,,43,29,4,20,22,8,good,,"open, b/t ancient rotten logs",
+13,2,759,Sw,,,,,50,40,7,17,15,6,good,,"open, light slash",
+13,3,760,Sw,,,,,57,57,12,25,29,9,very good,,"open, some shrubs closeby",
+13,3,761,Sw,,,,,50,39,9.5,26,30,9,mod-good,,"wide open, by balsam stump",
+13,3,762,Sw,,,,,49,40,8,25,21,7,good,,open but for ribe.lac.,sweep
+13,3,763,Sw,,,,,56,49,10.5,21,20,8,good,,"open, in 20cm deep hole",bent stem
+13,3,764,Sw,,,,,38,31,4.5,11,20,7,good,,"crooked stem, under various shrubs, on sloped mound",bent stem
+13,3,765,Sw,,,,,50,20,2,20,25,9.5,good,,at dripline of juvenile balsam,needle cast
+13,3,766,Sw,,,,,,,,,,,good,,"open, 8m from spruce at 2m w.s.west",veg press hortizontal no measure
+13,3,767,Sw,,,,,35,26,4,9,7,5,good,,"slightly chlorotic, open, closely surrounded by shrubs",stem sweep
+13,3,768,Sw,,,,,47,42,5,18,18,9,good,,"wide open, slightly chlorotic",broken bent stem
+13,3,769,Sw,,,,,47,32,5,21,17,8,good,,"wide open, very slightly chlorotic",
+13,3,770,Sw,,,,,,,,,,,good,,"slightly curved stem, at dripline of mature balsam, open to south",chewed tag unreadable 
+13,3,771,Sw,,,,,62,62,12.5,30,35,9,good,,"open, slightly chlorotic",
+13,3,772,Sw,,,,,23,20,2,15,14,3.5,moderate,,"overtopped by alder and shrubs, slightly curved stem",
+13,3,773,Sw,,,,,,,,,,,mod-good,,"open, ribu. edo close by to south (*one dead seedling b/t #773 and #774)",tree not found - dead
+13,4,774,Sw,,,,,34,29,6,20,19,6,good,,"in depression, light slash, under high mature balsam canopy",
+13,4,775,Sw,,,,,57,40,4,23,27,7.5,good,,"10deg lean, surrounded by juvenile conifers & alder, open directly overhead",
+13,4,776,Sw,,,,,,,,,,,good,,under heavy mixed overstory,no tag found
+13,4,777,Sw,,,,,47,34,2,15,20,5.5,moderate,,"open, sparse foliage, surrounded by shrubs",
+13,4,778,Sw,,,,,53,46,7,18,27,6.5,mod-good,,"open, light slash, alder nearby",
+13,4,779,Sw,,,,,36,30,2,13,13,6,mod-good,,"open, but surrounded by young alder and conifers",
+14,1,780,Sw,,,,,,,,,,,mod-good,,"at dripline of tall balsam, chlorotic, some necrotic foliage ",Dead
+14,1,781,Sw,,,,,44,44,9.5,17,18,7.5,good,,"at dripline of mature spruce, slightly chlorotic",
+14,1,782,Sw,,,,,44.5,44.5,6,24,24,5.5,good,,"at dripline of mature spruce, slightly chlorotic",
+14,1,783,Sw,,,,,,,,,,,good,,open,"veg press, no measure"
+14,1,784,Sw,,,,,,,,,,,good,,"wide open, slight lean, some necrotic foliage",not found
+14,1,785,Sw,,,,,63.5,63.5,8.5,38,30,13,good,,"wide open, slightly chlorotic",
+14,1,786,Sw,,,,,41,41,3,15,13,10,good,,"at dripline of large mature spruce, chlorotic, near and covered with small balsam",
+14,1,787,Sw,,,,,41,41,5,17,17,7,good,,"at dripline of large mature spruce, 2m from large fallen tree",
+14,1,788,Sw,,,,,,,,,,,mod-good,,"wide open but for some shrubs, at base of stump",Dead
+14,1,789,Sw,,,,,,,,,,,good,,"wide open, lots of cala.can about",veg press no measure
+14,1,790,Sw,,,,,,,,,,,very good,,wide open,"veg press, no measure"
+14,1,791,Sw,,,,,59,59,14,25,30,8.5,good,,"under mature balsam, in depression by old log",
+14,1,792,Sw,,,,,52,40,7,17,20,5,good,,"few dead needles, open, near large fallen tree",
+14,1,793,Sw,,,,,54,54,9,26,29,9,good,,"bent leader, under branches of large fallen tree at dripline of mature balsam",
+14,2,794,Sw,,,,,50,45,5,22,20,8,good,,"open, chlorotic, by fallen birch",
+14,2,795,Sw,,,,,,,,,,,good,,"top of leader dead, open but for heavy shrubs, exposed plug",Dead
+14,2,796,Sw,,,,,52,52,17,25,29,9,very good,,"at dripline of large mature balsam, in slight depression",
+14,2,797,Sw,,,,,45,32,5,17,32,7.5,good,,"at dripline of large mature balsam, slightly chlorotic",
+14,2,798,Sw,,,,,39,39,4.5,24,17,7,mod-good,,at dripline of large mature balsam ,
+14,2,799,Sw,,,,,63,63,8,30,25,9,very good,,"open, in slight depression by rotten stump",
+14,2,800,Sw,,,,,62,53,7,29,55,7,good,,"open, slightly chlorotic",stem bend 
+14,3,801,Sw,,,,,59,59,12,20,25,9,good,,"under mature balsam, slightly chlorotic",
+14,3,802,Sw,,,,,54,54,10,25,23,8.5,mod-good,,"under mature balsam, in depression",
+14,3,803,Sw,,,,,57,57,9,20,22,9,good,,open but for small alder,
+14,3,804,Sw,,,,,35,24,3,20,20,5,good,,"at dripline of bushy mature spruce, in slight depression",veg press hortizonal
+14,3,805,Sw,,,,,60,51,4.5,31,20,11,good,,"open, chlorotic, slight lean, slightly chlorotic",
+14,3,806,Sw,,,,,45,40,4,24,23,6.5,good,,"at dripline of mature balsam, on slight mound",
+14,3,807,Sw,,,,,51,46,6,27,19,8,good,,"open, on slight mound, many shrubs surrounding",
+14,3,808,Sw,,,,,47,37,5,25,15,6,mod-good,,overtopped by shrubs,veg press hortizonal
+14,3,809,Sw,,,,,35,28,5,15,15,7,mod-good,,"open but for some rubu.pub., on slight slope up to rotten stump",stem bend hortizonal
+14,3,810,Sw,,,,,54.5,39,5,25,25,8,good,,"open but to heavy shrubs, 10deg lean, bent leader",
+14,3,811,Sw,,,,,,,,,,,poor,,"open but for heavy shrubs, necrotic foliage, floppy leader",Dead - missing
+14,3,812,Sw,,,,,56,50,4,16,21,7,poor-mod,,"open but for heavy shrubs, dead terminal bud,  much dead foliage",stem sweep
+14,3,813,Sw,,,,,,,,,,,mod-good,,"open, surrounded by shrubs","moribund, veg press"
+14,3,814,Sw,,,,,,,,,,,mod-good,,"open, but for heavy shrubs, some necrotic foliage",moribund
+14,3,815,Sw,,,,,53,37,6,21,17,7,mod-good,,under large bushy mature balsam & some shrubs,Partial press
+14,3,816,Sw,,,,,57,57,7,23,20,8.5,good,,"open, slightly chlorotic, light slash ",
+14,4,817,Sw,,,,,,,,,,,poor-mod,,"in depression under alder, necrotic foliage",moribund
+14,4,818,Sw,,,,,54,48,9,25,26,12,good,,open but for light overtopping shrub,
+14,4,819,Sw,,,,,31,22,3,12,12,5,mod-good,,under bushy mature spruce and alder,
+14,4,820,Sw,,,,,30,17,0,12,13,6,mod-good,,"in hole at dripline of mature bushy balsam, some dead foliage (dead seedling b/t #820 and #821)",no leader
+14,4,821,Sw,,,,,33,27,6,18,13,6,good,,"open, on mound, light slash, some shrubs",
+14,4,822,Sw,,,,,35,21,7.5,14,14,7.5,moderate,,under heavy shrubs and 10m balsam,
+14,4,823,Sw,,,,,26,22,6,14,15,6,moderate,,"open but for light shrub cover, in hole b/t rotten log and rotten stump",
+14,4,824,Sw,,,,,46,46,8,16,15,8,good,,open but for branches of fallen tree,
+14,4,825,Sw,,,,,46,35,7.5,22,20,7.5,good,,"at dripline of 5m spruce, b/t 2 ancient rotten logs",
+14,4,826,Sw,,,,,41,34,5,10,15,5,good,,wide open,
+15,1,827,Sw,,,,,43,27,6.5,28,30,6.5,very good,,open,Stem sweep
+15,1,828,Sw,,,,,43.5,40,6,24,19,6,good,,at dripline of 1 tall mature spruce and 2 juvenile balsam,
+15,1,829,Sw,,,,,52.5,52.5,7,25,24,7,good,,"chlorotic, open by rotten logs",
+15,1,830,Sw,,,,,43,35,6,20,15,6,good,,"open, in depression, bent over slightly at leader",stem sweep
+15,1,831,Sw,,,,,,,,,,,mod-good,,"leaning at 45deg, chlorotic, in slash",missing/ dead
+15,1,832,Sw,,,,,15,15,7.5,10,10,7.5,good,,"open, some necrotic and missing foliage",poor condition
+15,1,833,Sw,,,,,50,50,8,24,24,8,mod-good,,"under 2 mature balsam, slightly chlorotic",
+15,1,834,Sw,,,,,60,60,9.5,27,31,9.5,moderate,,"at dripline of one mature balsam, slightly chlorotic",
+15,1,835,Sw,,,,,46,37,7.5,30,22,7.5,mod-good,,"open, slightly chlorotic",
+15,1,836,Sw,,,,,52,52,6,25,20,6,good,,"open, in slight depression 40cm from rotten log",chlorotic
+15,1,837,Sw,,,,,,,,,,7,mod-good,,"planted in rotten log under mature spruce,some dead foliage,chlorotic",Hortizontal/ moribund
+15,1,838,Sw,,,,,55.7,55.7,7,30,33,7,mod-good,,under juvenile balsam,
+15,1,839,Sw,,,,,45,45,7.5,33.5,20.5,7.5,good,,"open, in light slash, 1.5 m from #840",
+15,1,840,Sw,,,,,36,36,6,22,25,6,poor,,"open, dead leader, other necrotic foliage, 1.5m from #839",
+15,1,841,Sw,,,,,,,,,,,moderate,,"open but for shrubs, dead leader, some other dead foliage",Moribund
+15,1,842,Sw,,,,,51,48,7.5,20,19,7.5,moderate,,"open but for shrubs, chlorotic, bent stem/leader","Bent stem, Veg press"
+15,1,843,Sw,,,,,,,,,,,good,,"open, by slash pile, bent leader",Hortizontal no measure
+15,1,844,Sw,,,,,61.5,61.5,10.5,47,37,10.5,very good,,at dripline of mature balsam,
+15,1,845,Sw,,,,,59,54,0,15,22,7,mod-good,,"5deg lean, in shrubs, no conifers over top",stem bent/ veg press
+15,1,846,Sw,,,,,30,30,0,20,20,5.5,moderate,,"dead leader, by thick rubu.par. otherwise open",Veg press
+15,1,847,Sw,,,,,44,35,5,20,15,5.5,good,,"open, by large slash pile","New leader, Stem bent"
+15,2,848,Sw,,,,,42,42,5.5,23,25,6.5,mod-good,,"open, but b/t recently cut logs",
+15,2,849,Sw,,,,,62.5,52,11,25.5,21,7,very good,,"1m from very large mature birch, *  whole plot is rather low-lying, near swamp, moss covered ground",
+15,2,850,Sw,,,,,,,,,,,moderate,,"bent leader, chlorotic, open","very poor vigour, veg press"
+15,2,851,Sw,,,,,54,47,6,27,25,11.5,good,,"open, slightly chlorotic",
+15,2,852,Sw,,,,,43,40,9,20,23,5.5,good,,"30deg lean, open but to shrubs surrounding",stem bent/ Veg press
+15,2,853,Sw,,,,,44,37,12,17,14,6,poor-mod,,"open, shaded by log, dead leader",forked leader
+15,2,854,Sw,,,,,45,30,4,18,20,5.5,good,,under branches of fallen tree and juvenile balsam,
+15,2,855,Sw,,,,,31,15,4,10,8,5.5,moderate,,"wide open, chlorotic, some necrotic foliage","poor vigour, defoliated"
+15,2,856,Sw,,,,,59,59,7,33,27,7,good,,"open, some shrubs about",Bent leaders
+15,2,857,Sw,,,,,52,52,8,30.5,28,8.5,good,,"at dripline of tall mature spruce, by devil's club",
+15,2,858,Sw,,,,,45,35,9,20,15,6,mod-good,,"at dripline of 5m balsam, open to south",
+15,2,859,Sw,,,,,47,47,2,25.5,23,6,good,,under 3m sparsely foliated balsam,
+15,2,860,Sw,,,,,46,46,6,30.5,27,7.5,good,,"slight crooked stem, by 5-6m snag, light slash","New leader, forked top"
+15,2,861,Sw,,,,,48,31,5,20,15,5,mod-good,,"in hole by large rock to east, very bent stem and shrubs over top",Bent stem
+15,2,862,Sw,,,,,63,56,13,18,20,7.5,good,,"in midst of slash, but open to sky",
+15,2,863,Sw,,,,,41,41,4.5,16,17,6.5,good,,heavy high conifer canopy,
+15,2,864,Sw,,,,,40,40,0,22,24,6.5,good,,2m from very tall mature fir which overtops,Brroken top
+15,3,865,Sw,,,,,45,35,5,23,23,6,good,,"at dripline of 5m spruce, shrubs surround",
+15,3,866,Sw,,,,,,,,,,,moribund,,"shrubs over top, otherwise open, dead leader",Dead
+15,3,867,Sw,,,,,29,29,4,21.5,8,3.5,poor-mod,,"in hole, redwood all around, at dripline of juvenile balsam, thin/necrotic foliage","poor vigour, new leader"
+15,3,868,Sw,,,,,51,51,9,30.5,29,7,very good,,"under tall mature balsam, 1m from heavy slash",
+15,3,869,Sw,,,,,25,25,0,15,15,5.5,good,,"in slash, under medium-high conifer canopy",
+15,3,870,Sw,,,,,,,,,,,moderate,,"open, surrounded by slash (fresh fallen trees), 1/2 of leader dead, thin foliage",
+15,3,871,Sw,,,,,46,31,6,15,15,3.5,mod-good,,under 6-7m spruce,
+15,3,872,Sw,,,,,,,,,,,good,,"cut off, under slash, in hole by stump",
+15,3,873,Sw,,,,,66,66,5,27,27,9,good,,"under mature balsam with thick foliage, on side of mound",
+15,3,874,Sw,,,,,,,,,,,moderate,,"thin foliage, open, in crook of stump, many shrubs nearby",
+15,3,875,Sw,,,,,,,,,,,mod-good,,"leader dead, other dead foliage, 10cm from heavy slash",
+15,3,876,Sw,,,,,42,42,8,20,27,5.5,good,,open,
+15,3,877,Sw,,,,,55,40,0,19,25,6,good,,"in hole, 1m from tall mature balsam (barely overtopped)",
+15,3,878,Sw,,,,,,,,,,,mod-good,,"in midst of low shrubs, under medium high balsam",
+15,3,879,Sw,,,,,64,64,10,25,30,9,very good,,"open, 40cm from 80cm balsam",
+15,3,880,Sw,,,,,66,62,9,20,26,7,good,,under tall mature birch,
+15,4,881,Sw,,,,,57,57,8.5,26,30,7.5,good,,"in depression b/tt 2 ancient rotten logs, overtopped by 6m balsam",
+15,4,882,Sw,,,,,48,29,6,12,12,7,mod-good,,under tall mature balsam and some shrubs,
+15,4,883,Sw,,,,,60,55,13,33,30,8,good,,"open, some shrubs surrounding",
+15,4,884,Sw,,,,,,,,,,,good,,"open, chlorotic bottom 1/2",
+15,4,885,Sw,,,,,,,,,,,mod-good,,"open, dead leader, lateral has taken over",
+15,4,886,Sw,,,,,65,51,6.5,25,23,8.5,very good,,open,
+15,4,887,Sw,,,,,48,36,3.5,26,20,7,good,,"open, chlorotic",
+15,4,888,Sw,,,,,59,50,7.5,30,27,9,good,,"at base of very tall, mature balsam",
+15,4,889,Sw,,,,,53,46,10,30,25,8.5,mod-good,,"wide open, chlorotic, in 25cm deep hole",
+15,4,890,Sw,,,,,,,,,,,mod-good,,"chlorotic, wideopen, on slight slope",
+15,4,891,Sw,,,,,44,44,8,19,19,4.5,good,,"at dripline of very tall mature balsam, 10 deg lean",
+15,4,892,Sw,,,,,59,59,11,22,22,8,good,,"wide open, some shrubs within 50cm",
+15,4,893,Sw,,,,,65,40,9,29,30,7.5,good,,"wide open, but in light slash",
+15,4,894,Sw,,,,,57.5,57.5,16.5,40,35,8,good,,"at dripline of very tall mature balsam, slight chlorosis",
+15,4,895,Sw,,,,,60,50.5,7.5,21.5,23,7.5,good,,"open, surrounded by slash, a few dead needles",
+15,4,896,Sw,,,,,60,60,16,32,28,7,good,,"overtopped by slash, shrubs, but no conifers",
+15,4,897,Sw,,,,,,,,,,,moribund,,"in dense shrubs, some slash, no conifers over top",
+24,1,898,Sw,,,,,55,55,7,32,29,8,very good,,open,
+24,1,899,Sw,,,,,63.5,63.5,4.5,39,35,8,very good,,under large bushy mature balsam,
+24,1,900,Sw,,,,,62,62,7,25,26.5,6.5,good,,under large bushy mature balsam,
+24,1,901,Sw,,,,,62,62,5,29,33.5,8,good,,at dripline of mature balsam stand,
+24,1,902,Sw,,,,,55.5,48,6,14,16,7,good,,"open, alder surrounding, by small fallen birch",
+24,1,903,Sw,,,,,54.5,50.5,7.5,29,25.5,7,good,,"open, 50cm from rotten log",
+24,1,904,Sw,,,,,53.5,50,4.5,22,22.5,7.5,good,,"open, 5deg lean, very slight chlorosis",
+24,1,905,Sw,,,,,48,48,4,22,22,6.5,good,,"under bushy mature balsam, 30cm from rotten log, under light shrubs",
+24,1,906,Sw,,,,,55,55,5.5,21.5,27,7,good,,"open, 5deg lean, very slight chlorosis",
+24,1,907,Sw,,,,,40,40,8,22,22,5,good,,"at dripline of mature balsam stand, no competition about",
+24,1,908,Sw,,,,,50.5,50.5,10.5,21.5,23.5,6.5,very good,,"open, close to several 30cm-1m balsam",
+24,1,909,Sw,,,,,59.5,59.5,7.5,20,24,7,good,,"open, chlorotic",
+24,1,910,Sw,,,,,,,,,,,mod-good,,"no conifers overhead, but in thick of shrubs and Cala. can.",
+24,1,911,Sw,,,,,,,,,,,moribund,,"dead leader, heavy overtopping shrub",
+24,1,912,Sw,,,,,35,28.5,2,9,12,4.5,good,,"open, shrubs and cala.can. pressing closer",
+24,1,913,Sw,,,,,,,,,,,moderate,,"open, but for thick cala.can.",Stem scar
+24,1,914,Sw,,,,,42,20,3.5,16,14,5.5,mod-good,,"open, surrounded by cala.can. and shrubs",moribund 
+24,2,915,Sw,,,,,,,,,,,poor-mod,,"alder and shrub canopy, dead leader, 1m from slash",Veg press - DEad
+24,2,916,Sw,,,,,51,51,10.5,26,30,8,good,,"open, chlorotic",Veg press
+24,2,917,Sw,,,,,67,67,12,27.5,25,9.5,good,,"open, slightly chlorotic",
+24,2,918,Sw,,,,,34,30.5,2.5,10.5,16,5.5,mod-good,,"curved stem/leader, open, shrubs all around",Bent stem
+24,2,919,Sw,,,,,49,40,0,15,12,7.5,mod-good,,"open, but for shrubs over top",Veg press
+24,2,920,Sw,,,,,,,,,,,moribund,,"dead leader, alder over top",Dead - veg press
+24,2,921,Sw,,,,,,,,,,,moderate,,"moribund leader, alder over top, heavy shrubs around",Dead - veg press
+24,2,922,Sw,,,,,45,40,5,17,12,7,good,,"open, slightly chlorotic, 5deg lean","Veg press, stem sweep"
+24,2,923,Sw,,,,,,,,,,,very good,,"open, 5deg lean",Dead
+24,2,924,Sw,,,,,72,52,15,22,23,8.5,good,,"open, slightly chlorotic, heavy slash & shrubs surround",
+24,3,925,Sw,,,,,50.5,50.5,6,22,23,7,very good,,"open, by light slash ",Veg press
+24,3,926,Sw,,,,,,,,,,,moderate,,"15deg lean, curved leader (veg. pressed), open, chlorotic",
+24,3,927,Sw,,,,,,,,,,,moribund,,"under heavy vegetation + one small balsam, leader dead",Dead press
+24,3,928,Sw,,,,,,,,,,,mod-good,,"open, bottom 1/2 very chlorotic",Daed Veg press
+24,3,929,Sw,,,,,,,,,,,mod-good,,"open but for some shrubs, cala.can., 30deg lean, slight chlorosis",
+24,3,930,Sw,,,,,,,,,,,good,,"open but for some shrubs, chlorotic",Dead Veg press
+24,3,931,Sw,,,,,56,56,10,19,17,6.5,good,,"open, needles sparse on bottom 1/2",
+24,3,932,Sw,,,,,35,26.5,5.5,5,10,4.5,mod-good,,"open but for light shrub cover, 2 dead laterals",Stem bent/ Veg press
+24,3,933,Sw,,,,,45,45,5,16,14,7.5,good,,open but for moderate shrub cover,Stem broken
+24,3,934,Sw,,,,,37,34,5.5,15,17,5.5,good,,"open but for one rosa.aci. stem, curved stem",sweep
+24,3,935,Sw,,,,,64.5,55,13,37,30,10.5,good,,"open, slightly chlorotic",
+24,4,936,Sw,,,,,39.5,35,2,23,18,5.5,good,,wide open,Bent stem
+24,4,937,Sw,,,,,,,,,,,mod-good,,open,Dead veg press
+24,4,938,Sw,,,,,,,,,,,good,,"open but for light shrub cover, b/t two rotten logs",moribund
+24,4,939,Sw,,,,,59,53,7,25,29,6,good,,"20deg lean, at dripline of 6m balsam",
+24,4,940,Sw,,,,,45,40,3,20,24,6.5,mod-good,,"under 2 tall mature balsam, foliage sparse on some laterals",
+24,4,941,Sw,,,,,64,43,7,25,24,6.5,good,,"under high heavy conifer canopy, 1m from heavy slash",
+24,4,942,Sw,,,,,51,46,4,18.5,23,6,mod-good,,"under high heavy conifer canopy, no competition near",
+24,4,943,Sw,,,,,52,52,6.5,22,20,8.5,good,,"open, chlorotic",
+24,4,944,Sw,,,,,,,,,,,very good,,"at dripline of tall mature spruce, open to south, some light slash beside",
+24,4,945,Sw,,,,,39,32.5,5,24,22,5,mod-good,,under heavy mature balsam canopy,
+24,4,946,Sw,,,,,61,51,8.5,23,22,8.5,mod-good,,"at dripline of mature balsam with heavy foliage, slightly bent leader",
+24,4,947,Sw,,,,,50,40,3.5,21,25,6.5,very good,,open,
+24,4,948,Sw,,,,,44,25,7,20,18,5,good,,"under high heavy conifer canopy, in light slash",mult leader
+24,4,949,Sw,,,,,,,,,,,good,,"open, in slight depression, some necrotic foliage (very little)",
+24,4,950,Sw,,,,,,,,,,,mod-good,,dead terminal bud,dead
+24,4,951,Sw,,,,,52.5,46,5,26,24,7.5,good,,"open, chlorotic",DEad
+24,4,952,Sw,,,,,61.5,61.5,15,26,40,8.5,good,,"open, chlorotic",

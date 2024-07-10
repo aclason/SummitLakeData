@@ -3,7 +3,6 @@
 #'
 #' @export
 #'
-#' @importFrom stringr str_split
 #' @param out_path
 #' @param run_name
 #' @param Units_path

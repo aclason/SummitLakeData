@@ -1,39 +1,32 @@
-
-
 # 2021-12-16
-# By: Leah Walker
+# By: Leah Walker & Alana Clason
 
-# A function to clean the Summit lk 1992 - 2019 data
+# Create sortie initial conditions from 92/94 data
 
-prepSumLakeSORTIE <- function(dbhClSize,MinDBHClass,MaxDBHClass,PlotArea,
-                              raw_data,inits_dir) {
+#' Title
+#'
+#' @param dbh_size_class
+#' @param minDBH
+#' @param maxDBH
+#' @param plot_area
+#' @param raw_data
+#' @param output_dir
+#'
+#' @return
+#' @export
+#'
+#' @examples
+SORTIEinits <- function(dbh_size_class = 2,minDBH = 0,maxDBH,
+                        plot_area = 0.05,
+                        raw_data = "./data-raw/Trees/SummitLakeData.csv",
+                        output_dir) {
 
+  sl_dat <- SummitLakeData::clean_tree_data(raw_data = raw_data)
+
+  range(sl_dat$DBH, na.rm = TRUE)
   # Create a vector of DBH size classes, by 2 cm increments
-  diamClasses <- seq(MinDBHClass,(MaxDBHClass+dbhClSize), by=dbhClSize)
-
-  # Eliminate unneeded columns
-  #this selects the rows you want and leaves the file you read in alone
-  raw_data <- raw_data %>%
-    dplyr::select(Plot, Species, DBH_c_92_live, DBH_c_94_live)
-
-
-
-  # Clean species codes
-  # I am assuming "l" is for Larch
-  raw_data <- raw_data %>%
-    dplyr::mutate(Species = replace(Species, Species == "l", "Lw"))
-
-
-
-  ### NEEDS FIXING ###
-  raw_data <- raw_data %>%
-    dplyr::mutate(DBH_c_92_live = ifelse(is.na(DBH_c_92_live), DBH_c_94_live, DBH_c_92_live))
-
-
-  # Eliminate trees with no DBH measurement for that year
-  raw_data <- subset(raw_data, DBH_c_92_live != "NA")
-
-
+  diam_classes <- seq(minDBH,(maxDBH + dbh_size_class),
+                     by = dbh_size_class)
 
   # Replace old tree tag numbers with new, if applicable
   #raw_data$TreeID <- as.numeric(raw_data$TreeID)
@@ -43,30 +36,9 @@ prepSumLakeSORTIE <- function(dbhClSize,MinDBHClass,MaxDBHClass,PlotArea,
   #raw_data$TreeID_new <- NULL
 
 
-
-  # Rename columns to match Parameter Files
-  names(raw_data)[names(raw_data) == "Plot"] <- "unit"
-  names(raw_data)[names(raw_data) == "Species"] <- "Spp"
-  names(raw_data)[names(raw_data) == "DBH_c_92_live"] <- "DBH"
-  #str(raw_data) # Verify names are correct
-
-
-
-  # Create one unit (plot) label per species
-  labels.summit.sp <- merge(unique(raw_data$unit), unique(raw_data$Spp), fill = TRUE)
-  names(labels.summit.sp) <- c("unit","Spp")
-
-
-
-  # Create SORTIE DBH classes
-  # Turn data frame into data table
-  raw_data <- as.data.table(raw_data)
-
-
-
   # Create column for and fill with DBH bins
   for(j in 1:length(diamClasses)){
-    raw_data[DBH <= diamClasses[j] & DBH > diamClasses[j]-dbhClSize,DBH_bin := diamClasses[j]]
+    raw_data[DBH <= diamClasses[j] & DBH > diamClasses[j]-dbhClSize, DBH_bin := diamClasses[j]]
   }
 
 
@@ -124,7 +96,8 @@ prepSumLakeSORTIE <- function(dbhClSize,MinDBHClass,MaxDBHClass,PlotArea,
 
 
   # Create a data table with all the species headings, but one row of NAs
-  DT <- data.table(1)[, `:=`(c("variable", "Sx", "Pl", "Bl", "At", "Lw", "Fd", "Ac", "Ep"), NA)][,V1 := NULL]
+  DT <- data.table(1)[, `:=`(c("variable", "Sx", "Pl", "Bl",
+                               "At", "Lw", "Fd", "Ac", "Ep"), NA)][,V1 := NULL]
 
   TS92 <- data.table("variable" = "Timesteps",
                      "Sx" = 27)

@@ -3,86 +3,232 @@
 #'
 #' @param dat_loc what is the directory where all data is stored
 #'
-#' @details we expect the directory to contain 6 files: CWD_1992.csv, CWD_1993.csv, CWD_2011.csv, CWD_2018.csv and CWD_2019.csv
+#' @details Summit Lake currently has only one year of CWD, so only call 2021, but can add more
+#' as re-measurements occur
 #' @return
 #' @export
 #'
 #' @examples
 CWD_vol_calc <- function(dat_loc, incl_sp_decay = FALSE){
 
-  #calculate volume for all years
-  #2020 & 2021 considered the same year
-  sl_cwd_21 <- CWD_2021_Vol_calc(CWD_dat = paste0(dat_loc,"EP1162CWDsurvey2020-2021.csv"),
-                                 out_carbon_comp = incl_sp_decay)
+  sl_cwd_21 <- suppressWarnings(CWD_2021_vol_calc(CWD_dat = paste0(dat_loc,
+                                                  "EP1162CWDsurvey2020-2021.csv"),
+                                 line_dat = paste0(dat_loc,
+                                                   "EP1162CWDsurveyTransectLines2020-2021.csv"),
+                                 sp_decay = incl_sp_decay))
 
-
-  if(incl_sp_decay == FALSE){
-    cd_cwd_allyears <- rbind(dc_cwd_92[,.(Year,Yrs_Post = 0,Unit, VolumeHa)],
-                             dc_cwd_93[,.(Year,Yrs_Post = 1,Unit = Stand, VolumeHa)],
-                             dc_cwd_11[,.(Year = 2011, Yrs_Post = 19,Unit, VolumeHa)],
-                             dc_cwd_19[,.(Year = 2019, Yrs_Post = 27,Unit, VolumeHa)])
-
-  }else{
-    cd_cwd_allyears <- rbind(dc_cwd_92[,.(Year,Yrs_Post = 0,Unit, Sp, Decay, VolumeHa)],
-                             dc_cwd_93[,.(Year,Yrs_Post = 1,Unit = Stand, Sp, Decay, VolumeHa)],
-                             dc_cwd_11[,.(Year = 2011, Yrs_Post = 19,Unit, Sp, Decay, VolumeHa)],
-                             dc_cwd_19[,.(Year = 2019, Yrs_Post = 27,Unit, Sp, Decay = Decay_2019, VolumeHa)])
-  }
-
-  #clean the species columns
-  cd_cwd_allyears[, Sp := ifelse(Sp=="u","U",
-                                 ifelse(Sp == "", "U",
-                                        ifelse(Sp == "ep", "Ep",
-                                               ifelse(Sp == "Act","Ac",Sp))))]
-
+  cd_cwd_allyears <- rbind(sl_cwd_21)
 
   return(cd_cwd_allyears)
 
 }
 
 
-#' 1992 CWD volume calculation
-#'
-#' @param CWD_dat
-#'
-#' @return
-#' @export
-#' @details Calculate Volume using the British Columbia Ministry of Forests and Range (2009) formula
-#'  CWD volume (m3/ha) = pi^2/8L  *  sum[D2/cos (A)]
-#'   Where: 	L = length of total transect (horizontal distance (HD) in m)
-#'                                         HD = SD / Square root of [1 + (% slope / 100)2]
-#' slope was not measured so assume total transect length to be 90m
-#' D = diameter of each piece of CWD (cm)
-#' A = tilt angle from horizontal for each piece (degrees)
-#' Because tilt angle was not measured in 1992 and 1993, it was assumed to be zero,
-#' so that cos (A) = 1 for all pieces in those years.
-#'
-#' @examples
-CWD_1992_Vol_calc <- function(CWD_dat, out_carbon_comp = FALSE){
-  #-----------------------Prepare data -----------------------------------------#
-  # Import 1992
-  CWD.1992<- fread(CWD_dat)
+CWD_2021_vol_calc <- function(CWD_dat, line_dat, sp_decay){
+  # load data
+  cwd <- fread(CWD_dat)
+  line <- fread(line_dat)
 
-  # Square diameter
-  CWD.1992[, D2_cosA:= Diam_cm^2]
+  # CLEAN/PREPARE DATA
+  # rename columns
+  setnames(cwd, "diam(cm)", "Diam_cm")
+  setnames(cwd, "Accum/Odd-length(cm)", "OddDiam1")
+  setnames(cwd, "Accum/Odd-length(cm)", "OddDiam2")
+  # clean the species columns
+  cwd[, Species := ifelse(Species=="Unk","U", Species)]
+  # change all "-" to NA
+  cwd[cwd=="-"] <- NA
+  # make diam numeric
+  cwd[, Diam_cm:=as.numeric(Diam_cm)][, Tilt:=as.numeric(Tilt)]
+  # if tilt is NA make it 0
+  cwd[is.na(Tilt), Tilt:=0]
 
-  # Convert individual piece to plot summary for L (length of total transect horizontal distance)
-  if(out_carbon_comp == FALSE){
-    CWD.1992_plot <- CWD.1992[, .(D2cosA = sum(D2_cosA)),
-                              by =c("Year", "Unit", "Block", "Treatment", "Unique_plot")]
-  }else{
-    #if volume will be used for carbon, need to keep species and decay class columns
-    CWD.1992_plot <- CWD.1992[, .(D2cosA = sum(D2_cosA)),
-                              by =c("Year", "Unit","Sp", "Decay","Block", "Treatment", "Unique_plot")]
-  }
+  # for the oddly shaped pieces average the two diameters
+  # if diam=NA and species!=NA then average Odd diameters
+  cwd[, Diam_cm :=ifelse(is.na(Diam_cm) & !is.na(Species),
+                            (OddDiam1 + OddDiam2) / 2,
+                            Diam_cm)]
 
-  # Volume (m3/ha) calculation
-  CWD.1992_plot[, VolumeHa:= (pi^2/(8*90)) * D2cosA]
+  PlotCWDvol <- CWD_vol_int(CWD_dat = cwd,
+                             line_dat = line,
+                             sp_decay = sp_decay)
 
-  return(CWD.1992_plot)
+  PlotCWDvol[,Year:=2021]
+
+  return(PlotCWDvol)
 
 }
 
 
 
+
+#' General SBS coarse woody debris
+#'
+#' @param CWD_dat
+#' @param size_thresh default to FALSE, if pass a number, that is used as the cutoff in size class
+#' @param out_carbon_comp
+#'
+#' @return
+#' @export
+#' @description
+#' Bruce Rogers data from the SBS - original file name "Erica-SB Plot Data-CWD-Regen". Assuming
+#' 2 x 30m transect lengths
+#'
+#'
+#' @examples
+cwd_sub_boreal_vol <- function(CWD_dat,
+                               size_thresh = FALSE, out_carbon_comp = FALSE){
+
+  cwd <- fread(CWD_dat)
+
+  # Square diameter
+  cwd[, D2_cosA:= `Diam. (cm)`^2, by = seq_len(nrow(cwd))]
+
+  #remove nas for diameter"
+  cwd <- cwd[!is.na(`Diam. (cm)`)]
+
+
+  # assuming BI should be Bl, but it could be Ep?
+  cwd[, Species := ifelse(Species == "at", "At",
+                    ifelse(Species == "BI", "Bl",
+                      ifelse(Species == "SX", "Sx",
+                        ifelse(Species == "u", "U", Species))))]
+
+  # Convert individual piece to plot summary for L (length of total transect horizontal distance)
+  if(out_carbon_comp == FALSE){
+    if(size_thresh){
+      # Category for small and large logs
+      cwd[, sizeGr:= ifelse(`Diam. (cm)` < size_thresh, "small", "large")]
+      cwd_plot <- cwd[, .(D2cosA = sum(D2_cosA)),
+                                by =c("Plot #", "sizeGr")]
+    }else {
+      cwd_plot <- cwd[, .(D2cosA = sum(D2_cosA)),
+                                by =c("Plot #")]
+    }
+
+  }else{
+    #if volume will be used for carbon, need to keep species and decay class columns
+    if(size_thresh){
+      # Category for small and large logs
+      cwd[, sizeGr:= ifelse(`Diam. (cm)` < size_thresh, "small", "large")]
+      cwd_plot <- cwd[, .(D2cosA = sum(D2_cosA)),
+                                by =c("Plot #","Species", "Decay Class", "sizeGr")]
+
+    }else {
+      cwd_plot <- cwd[, .(D2cosA = sum(D2_cosA)),
+                                by =c("Plot #","Species", "Decay Class")]
+
+    }
+  }
+
+  # Volume (m3/ha) calculation (include transect length). I've assumed 2 30m transects
+  # but do not have documentation to support that is the total
+  cwd_plot[, VolumeHa:= (pi^2/(8*60)) * D2cosA]
+
+  return(cwd_plot)
+}
+
+
+#' Title
+#'
+#' @param CWD_dat
+#' @param size_thresh
+#'
+#' @return
+#' @export
+#'
+#' @examples
+cwd_sub_boreal_diams <- function(CWD_dat, size_thresh = 15){
+  #get mean diameters
+  #Species groups
+  cwd <- fread(CWD_dat)
+  #remove nas for diameter"
+  cwd <- cwd[!is.na(`Diam. (cm)`)]
+
+  # assuming BI should be Bl, but it could be Ep?
+  cwd[, Species := ifelse(Species == "at", "At",
+                          ifelse(Species == "BI", "Bl",
+                                 ifelse(Species == "SX", "Sx",
+                                        ifelse(Species == "u", "U", Species))))]
+  cwd[, sizeGr:= ifelse(`Diam. (cm)` < size_thresh, "small", "large")]
+  # Species groups -----
+  Group1 <- c("Hw","Ba", "Bl","Sx","Pl","U")
+  Group3 <- c("At","Ac","Ep")
+  cwd[,SpGrp := ifelse(Species %in% Group1, 1,
+                           ifelse(Species %in% Group3, 3, 2 ))]
+  cwd_mnLogs <- cwd[, .(mean_diam = mean(`Diam. (cm)`)),
+                    by = .(`Plot #`, sizeGr, SpGrp, `Decay Class`)]
+
+  return(cwd_mnLogs)
+
+}
+
+
+
+#' Title
+#'
+#' @param CWD_dat
+#' @param size_thresh
+#' @param out_carbon_comp
+#'
+#' @return
+#' @export
+#'
+#' @examples
+cwd_sub_boreal_props <- function(CWD_dat, size_thresh = 15, out_carbon_comp = TRUE){
+
+  # Import 1992 data and calc volume
+  cwd_vol <- cwd_sub_boreal_vol(CWD_dat = CWD_dat,
+                                 size_thresh = size_thresh,
+                                 out_carbon_comp = TRUE)
+
+  # Species groups -----
+  Group1 <- c("Hw","Ba", "Bl","Sx","Pl","U")
+  Group3 <- c("At","Ac","Ep")
+  cwd_vol[,SpGrp := ifelse(Species %in% Group1, 1,
+                        ifelse(Species %in% Group3, 3, 2 ))]
+
+  #total volume in the plot
+  cwd_plot <- cwd_vol[,.(VolumeHa = sum(VolumeHa)),
+                         by = .(`Plot #`, SpGrp, sizeGr, `Decay Class`)]
+  #check calculations
+  #cwd92_Unit[,.(VolumeHa = sum(VolumeHa)), by = .(Unit)]
+  cwd_d <- cwd_sub_boreal_diams(CWD_dat, size_thresh = size_thresh)
+
+
+  cwd_plot <- merge(cwd_plot, cwd_d,
+                      by = c("Plot #", "sizeGr", "SpGrp", "Decay Class"),
+                      all.x = TRUE)
+
+  # calculate proportion log area
+  cwd_plot[, PLA := VolumeHa /(1/3 * pi * (mean_diam/ 2))]
+
+  # Percent area logs by whole unit...using mean diameters for every combination
+  cwd_plot[,.(PLA = sum(PLA)), by = .(`Plot #`)]
+
+  sp_decay_size <- CJ(`Plot #` = unique(cwd_plot$`Plot #`),
+                      SpGrp = c(1,2,3),
+                      sizeGr = c("small","large"),
+                      `Decay Class` = c(1,2,3,4,5))
+
+  cwd_all_combos <- merge(cwd_plot,
+                          sp_decay_size,
+                          by = c("Plot #", "sizeGr", "SpGrp", "Decay Class"),
+                          all = TRUE)
+  setnafill(cwd_all_combos, cols = c("VolumeHa", "mean_diam", "PLA"), fill = 0)
+
+  cwd_gr_all <- cwd_all_combos[, .(PLA = mean(PLA)),
+                             by = c("sizeGr", "SpGrp", "Decay Class")]
+
+  #setnafill(cwd_gr_all, cols = c("VolumeHa", "mean_diam", "PLA"), fill = 0)
+
+  cwd_gr_all[,propLA := PLA/100]
+
+  #to account for recent spruce beetle kill, Bruce recommended modifying large diameter cwd
+  #in decay class 1. I will divide it in half
+  cwd_gr_all[sizeGr == "large" & SpGrp == 1 & `Decay Class` == 1,
+             propLA := propLA/2]
+
+  return(cwd_gr_all)
+}
 
